@@ -1,0 +1,7 @@
+[INFO] Collector initialized
+[INFO] Collector initialized
+[INFO] Collector initialized
+[INFO] Collector loop finished. Iterations: 10
+[INFO] Collector initialized
+[INFO] Collector stopped manually
+[INFO] Collector initialized

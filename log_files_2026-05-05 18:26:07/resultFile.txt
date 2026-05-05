@@ -1,0 +1,345 @@
+=== COLLECTOR RESULT ===
+Reddit URLs: 114 [/r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojq2xr0/, /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojosool/, https://v.redd.it/y38u513cyp251, /r/GlitchProductions/comments/1t13zjy/i_cant_believe_it/ojeatq4/, /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojwfclf/, /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq6ufm/, /r/DailyGuess/comments/1t3xzyb/can_you_guess_this_5letter_word_puzzle_by_uyoshnis/ojyqp9w/, https://www.reddit.com/r/AskLGBT/comments/1sgqzqr/my_mom_said_i_cant_be_a_lesbian_because_im_not/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofbs9jf/, /r/mathmemes/comments/1sgzvxx/the_1phone/of8zv0b/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofn3ocv/, /r/mathmemes/comments/1sgzvxx/the_1phone/of91w5f/, /r/mathmemes/comments/1sgzvxx/the_1phone/of91nzy/, /r/addressme/comments/1t2tsvi/barber_got_zombies_hairline_right/ojqkfkj/, /r/mathmemes/comments/1sgzvxx/the_1phone/og3rs9a/, https://i.redd.it/rt16f7c86ogf1.png, /r/mathmemes/comments/1sgzvxx/the_1phone/ofa5zod/, /r/DailyGuess/comments/1t3y0kh/can_you_guess_this_5letter_word_puzzle_by/ojyq5d8/, /r/DailyGuess/comments/1t251ud/can_you_guess_this_5letter_word_puzzle_by_umiddle/ojlg7ji/, /r/Caldruki/comments/1t2r6m9/best_memory_of_my_school_life/ojq6h5r/, /r/addressme/comments/1t37v5d/why_so_many_2s/ojxwt5f/, https://www.reddit.com/r/learnpython/comments/4y1laa/put_item_into_list_sort_list_and_get_items_new/, /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqu65l/, /r/mathmemes/comments/1sgzvxx/the_1phone/of97od6/, https://www.reddit.com/r/Minecraft/comments/2izk5k/ideas_for_an_apocoliptic_survival_map/, /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojszygb/, /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojv4dgr/, /r/mathmemes/comments/1sgzvxx/the_1phone/of9mu9c/, /r/Gameoverse/comments/1t3qs2r/why_is_the_kit_roblox_pack_so_hot/ojx1cy3/, /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqu1q6/, https://i.redd.it/l749l6k3fckf1.png, /r/mathmemes/comments/1sgzvxx/the_1phone/of9wxbl/, https://www.reddit.com/r/math/comments/1phlc14/metaballs_with_fixed_values/, https://www.reddit.com/r/redstone/comments/2iywtr/disabling_crafting/, /r/mathmemes/comments/1sgzvxx/the_1phone/of9k1bm/, /r/PeterExplainsTheJoke/comments/1t1ymp6/purrsonalized_color_profiles/ojk8ph1/, /r/addressme/comments/1t33quq/i_would_like_to_try_it_too/ojsontu/, /r/mathmemes/comments/1sgzvxx/the_1phone/of8zh2l/, /r/mathmemes/comments/1sgzvxx/the_1phone/of92e0y/, /r/Gameoverse/comments/1t1lp4w/how_long_is_the_pilot_going_to_be/ojns7v3/, https://i.redd.it/mybe90avgckf1.png, /r/Gameoverse/comments/1t1lp4w/how_long_is_the_pilot_going_to_be/ojnsyrf/, /r/mathmemes/comments/1sgzvxx/the_1phone/offotb4/, /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq2osn/, /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojszk8n/, https://i.redd.it/g1c7r9fk9r0e1.jpeg, /r/mathmemes/comments/1sgzvxx/the_1phone/offp110/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofb0xdk/, /r/TheDigitalCircus/comments/1t2hy0w/no_words_just_thiss/ojo18g3/, /r/DailyGuess/comments/1t32lh7/can_you_guess_this_7letter_word_puzzle_by_uwarm/ojs6zbe/, /r/DailyGuess/comments/1t20b65/can_you_guess_this_5letter_word_puzzle_by_uequal/ojkaw8c/, /r/teenagers/comments/1t291fw/nazi_germany_just_attacked_poland/ojmnq4v/, /r/mapporncirclejerk/comments/1t1xcge/ouch_everyone_is_gonna_be_offended/ojk2m1v/, /r/DailyGuess/comments/1t35wy1/can_you_guess_this_4letter_word_puzzle_by_ufront/ojsuvzh/, /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojwfiil/, /r/addressme/comments/1t3018b/canada_should_get_better_at_naming_territories/ojrp3gc/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofa5wal/, /r/mathmemes/comments/1sgzvxx/the_1phone/of92yrj/, /r/mathmemes/comments/1sgzvxx/the_1phone/of97tw7/, /r/mathmemes/comments/1sgzvxx/the_1phone/of9ci6s/, /r/mathmemes/comments/1sgzvxx/the_1phone/of8zcum/, /r/mathmemes/comments/1sgzvxx/the_1phone/of8y43z/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofz0z35/, /r/PeterExplainsTheJoke/comments/1t20ebh/petah_help/ojkb77b/, /r/conlangs/comments/1t265hv/i_made_a_language_named_damserlandic/ojlis39/, /r/PeterExplainsTheJoke/comments/1t2pnsm/petah_i_dont_speak_spanish/ojs2muu/, /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojqjdz6/, https://i.redd.it/2yt61a5f9r0e1.png, /r/mathmemes/comments/1sgzvxx/the_1phone/offoz6c/, /r/Gameoverse/comments/1t2i8m7/when_the_pilot_release_will_it_blow_up_and_get/ojnzmwo/, /r/mathmemes/comments/1sgzvxx/the_1phone/of93wu1/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofzoglc/, /r/mathmemes/comments/1sgzvxx/the_1phone/of9wysu/, https://www.reddit.com/r/godot/comments/5ojhio/menu_like_angry_birds/, /r/GlitchProductions/comments/1t23201/glitchs_dream_of_being_the_most_subbed_australian/ojnsrnv/, /r/LearnJapaneseNovice/comments/1t43t8n/one_1_image_of_silly_randomness_for_your_katakana/ok03d9j/, /r/addressme/comments/1t416z7/is_anata_mean/ojzz8t0/, https://www.reddit.com/r/learnpython/comments/2o6mmw/gui_help/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofbus8d/, /r/mathmemes/comments/1sgzvxx/the_1phone/of97qyw/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofh3fxq/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofb2bw1/, /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojr2e1x/, /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq0woq/, /r/mathmemes/comments/1sgzvxx/the_1phone/of9bpif/, /r/mathmemes/comments/1sgzvxx/the_1phone/of8zjz7/, https://www.reddit.com/r/feedthebeast/comments/2lw8rj/what_modpack_is_the_best/, /r/mathmemes/comments/1sgzvxx/the_1phone/of957oj/, /r/Gameoverse/comments/1t0wwrt/what_date_do_you_think_the_pilot_is_releaseing_on/oje9k8d/, http://imgur.com/I4Zh0bq, /r/fivenightsatfreddys/comments/1t2d2kt/hmmmm/ojmyvbl/, /r/GenAlpha/comments/1t2buaq/stat_your_favorite_song_in_the_comments_and_see/ojrcc91/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0rm4/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0htx/, https://www.reddit.com/r/feedthebeast/comments/2tfonu/light_weight_modpack/, /r/GlitchProductions/comments/1t13zjy/i_cant_believe_it/ojeaqhs/, /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqugha/, /r/mathmemes/comments/1sgzvxx/the_1phone/of92iz0/, /r/LearnJapaneseNovice/comments/1t43t8n/one_1_image_of_silly_randomness_for_your_katakana/ok09h1a/, https://i.redd.it/pz4ovb2dnxyg1.jpeg, /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0g7l/, /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojprpj7/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofa7ep8/, /r/TheDigitalCircus/comments/1t2qvqi/just_a_reminder_we_are_fd/ojvt3ub/, http://i.imgur.com/d7BCUHj.png, /r/conlangs/comments/1t265hv/i_made_a_language_named_damserlandic/ojljkjw/, https://www.reddit.com/gallery/1sgzvxx, /r/mathmemes/comments/1sgzvxx/the_1phone/of8yre0/, /r/mathmemes/comments/1sgzvxx/the_1phone/ofb7470/, https://i.redd.it/qyvm7hg0pxyg1.jpeg, /r/LearnJapaneseNovice/comments/1t233fr/learning_kanji_like_in_japanese_elementary_school/ojlerv4/, /r/mathmemes/comments/1sgzvxx/the_1phone/of9h13c/, http://imgur.com/a/0GC68, /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0be3/]
+Posts: 24 [[PostBody@574b560f postBody | https://www.reddit.com/gallery/1sgzvxx | t3_1sgzvxx | ], [PostBody@ba54932 postBody | https://www.reddit.com/r/AskLGBT/comments/1sgqzqr/my_mom_said_i_cant_be_a_lesbian_because_im_not/ | t3_1sgqzqr | Unnecessary context:  
+&gt;!I'm a biological male, but have enjoyed thinking of myself as a girl/being perceived as a girl for almost a year. I have even started cross-dressing, notably with the help of my mom. The first time I had these thoughts were during my early teenage years, but I brushed these off because I thought it was impossible to be gay (lesbian) *and* trans.!&lt;
+
+&gt;!My mom was raised in a Christian conservative environment but she's more centrist now, partially because of her being more of a tomboy. She even cross-dressed before puberty, as it gave her more mobility. She told me that during her childhood, she considered being lesbian, or being a boy. She eventually brushed off those ideas because she "matured out of them" and "was just envious of her brother". I have considered that this could've been caused by said conservative environment oppressing LGBTQ+ people.!&lt;
+
+Because of this, she's also insisted that *I* cannot be trans or lesbian. The former because I "haven't matured enough to fully understand myself" and the latter because... my room isn't tidy enough?  
+This initially struck me like the "gay men are more fashionable" stereotype, but I haven't heard this anywhere. Have other people also heard of this or was it just my mom's weird upbringing?], [PostBody@28975c28 postBody | https://i.redd.it/l749l6k3fckf1.png | t3_1mw6dmj | ], [PostBody@3943a2be postBody | https://i.redd.it/mybe90avgckf1.png | t3_1mw6hx3 | ], [PostBody@343570b7 postBody | https://i.redd.it/rt16f7c86ogf1.png | t3_1mg12kz | ], [PostBody@157853da postBody | https://i.redd.it/2yt61a5f9r0e1.png | t3_1gqr5mo | ], [PostBody@71c3b41 postBody | https://i.redd.it/g1c7r9fk9r0e1.jpeg | t3_1gqr7fp | ], [PostBody@236e3f4e postBody | https://i.redd.it/qyvm7hg0pxyg1.jpeg | t3_1t2n7p1 | ], [PostBody@3cc1435c postBody | https://i.redd.it/pz4ovb2dnxyg1.jpeg | t3_1t2mz7q | "Can we high five at school tomorrow"
+
+"Shut up"
+
+\*crush took 167 screenshots of chat\*
+
+ENRIQUEEEEEEE], [PostBody@6bf0219d postBody | https://www.reddit.com/r/math/comments/1phlc14/metaballs_with_fixed_values/ | t3_1phlc14 | Metaballs (https://en.wikipedia.org/wiki/Metaballs) are a common digital art demo with some practical uses, and there are several variations that can be used, but, while visibly interesting, they don't tend to be very consistent with their volume and surface area, and I have an idea that would work best with some of these values remaining constant.
+
+Is there any way that a metaball like visual, where certain values are fixed. Specifically, I would like one that maintains the combined volume of all balls, and potentially one that maintains the combined surface area of all balls (I know these two are mutually exclusive, just want to explore several options)
+
+I would prefer a solution that works in arbitrarily dimensions, but 3 dimensions is my main starting point.
+
+For those who are curious as to why I am interested: I have a (not even half baked) idea for a video game where you are a character on the surface of a metaball, and the world morphs around you when the balls pass through each other. No idea what the objective would be, but I think having a constant surface area would make it work a lot better.], [PostBody@dd0c991 postBody | https://v.redd.it/y38u513cyp251 | t3_gvwr67 | ], [PostBody@5f16132a postBody | https://www.reddit.com/r/godot/comments/5ojhio/menu_like_angry_birds/ | t3_5ojhio | How would I make a menu like angry birds such that once you complete a level it has a popup with how many stars you achieved based on certain criteria. I also want to save these stars on a level to level biases so that every time I open the app it is still recorded.
+
+
+Sorry if this was confusing, thanks.], [PostBody@69fb6037 postBody | https://www.reddit.com/r/learnpython/comments/4y1laa/put_item_into_list_sort_list_and_get_items_new/ | t3_4y1laa | I need to take an item, put it into a list and find the item's new index. Is there any way to do this semi-simply? If it helps the list should be sorted beforehand.
+
+
+
+Also, is there any way to sort a list based on an other list
+
+for example:
+
+     list1 = [1,3,2,4]
+     list2 = [1,2,3]
+     list2.sort(list1)
+     print(list2)#[1,3,2]
+], [PostBody@36d585c postBody | http://imgur.com/a/0GC68 | t3_4dqxlu | ], [PostBody@87a85e1 postBody | http://i.imgur.com/d7BCUHj.png | t3_4dcisn | ], [PostBody@671a5887 postBody | https://www.reddit.com/r/feedthebeast/comments/2tfonu/light_weight_modpack/ | t3_2tfonu | I want a more lightweight modpack.
+
+I have looked into FTB lite 3 but I find mods I don't think I will ever need/use.
+
+Does anybody know of a modpack that dosent have many mods that aren't nessesary?
+
+], [PostBody@5552768b postBody | http://imgur.com/I4Zh0bq | t3_2t8lc4 | ], [PostBody@3c947bc5 postBody | https://www.reddit.com/r/learnpython/comments/2o6mmw/gui_help/ | t3_2o6mmw | What are my options? 
+
+I currently use tkinter, is that fine or should I use something different?
+
+], [PostBody@609db43b postBody | https://www.reddit.com/r/feedthebeast/comments/2lw8rj/what_modpack_is_the_best/ | t3_2lw8rj | I don't have the best of computers so I can't have to many mods. 
+
+I want a wide range of mods but I don't need to many of the same purpose.  
+
+I would prefer 1.7.10 because its newer. 
+
+Please state the advantages to each pack.
+
+Thank you.], [PostBody@55f616cf postBody | https://www.reddit.com/r/Minecraft/comments/2izk5k/ideas_for_an_apocoliptic_survival_map/ | t3_2izk5k | I want to make a map that uses command blocks to change the suvival aspect of minecraft.
+I already have several ideas including completely redone crafting, only zombies spawn but some have different abilities, and several other thing like Thirst, revised hunger, and attack skill levels.
+
+If you have any other ideas please comment them. 8D], [PostBody@1356d4d4 postBody | https://www.reddit.com/r/redstone/comments/2iywtr/disabling_crafting/ | t3_2iywtr | Can anyone think of a way to disable crafting useing command blocks?
+I want to disable crafting at tables and in your inventory.
+], [PostBody@c03cf28 postBody | https://i.redd.it/pz4ovb2dnxyg1.jpeg | t3_1t2mz7q | "Can we high five at school tomorrow"
+
+"Shut up"
+
+\*crush took 167 screenshots of chat\*
+
+ENRIQUEEEEEEE], [PostBody@1329eff postBody | https://www.reddit.com/gallery/1sgzvxx | t3_1sgzvxx | ], [PostBody@6497b078 postBody | https://www.reddit.com/gallery/1sgzvxx | t3_1sgzvxx | ]]
+Comments: 104 [[CommentBody@41c2284a commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8y43z/ | t1_of8y43z | Check out our new Discord server! https://discord.gg/e7EKRZq3dG
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/mathmemes) if you have any questions or concerns.*], [CommentBody@53aad5d5 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zcum/ | t1_of8zcum | HAAAANK!
+
+HANK, DON'T ABBREVIATE COMPLEX PLANE.
+
+HAAAANK!], [CommentBody@46fa7c39 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of97tw7/ | t1_of97tw7 | ![gif](giphy|TcYsW9HlxtDNJ6mBoe)
+
+This but with complex plane], [CommentBody@1fb700ee commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8yre0/ | t1_of8yre0 | don't say cp instead of complex plane brother], [CommentBody@4f67eb2a commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zh2l/ | t1_of8zh2l | That's part of the joke, brother.
+I do whatever can give me the most engagement.
+Thanks for your comment.], [CommentBody@4a668b6e commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9h13c/ | t1_of9h13c | I respect the hustle.], [CommentBody@5f683daf commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa5wal/ | t1_ofa5wal | that's the engagement bait I'll accept], [CommentBody@78ffe6dc commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9bpif/ | t1_of9bpif | [deleted]], [CommentBody@8317c52 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9ci6s/ | t1_of9ci6s | No, we very much do], [CommentBody@76f2bbc1 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0be3/ | t1_ofa0be3 | I’m glad you dedicated the entire second slide to CP!], [CommentBody@68e965f5 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0g7l/ | t1_ofa0g7l | yeah], [CommentBody@6f27a732 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of97od6/ | t1_of97od6 | Sounds like it would be a complex process], [CommentBody@6c779568 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of97qyw/ | t1_of97qyw | Give this man a *TRUE*], [CommentBody@f381794 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa5zod/ | t1_ofa5zod |  A CP one might say.], [CommentBody@2cdd0d4b commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9k1bm/ | t1_of9k1bm | I've never seen someone label the imaginary axis ix, that's diabolical😭], [CommentBody@7e9131d5 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9wxbl/ | t1_of9wxbl | I'm a bad boy], [CommentBody@2e1d27ba commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zjz7/ | t1_of8zjz7 | Complex Plane: Of course. 
+
+**Multiplies phone by _i_**
+
+Now your phone is imaginary. Have a good day!], [CommentBody@61d6015a commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zv0b/ | t1_of8zv0b | Dang I didn't think about that.], [CommentBody@2525ff7e commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of91nzy/ | t1_of91nzy | No worries. 
+
+Just ask the "Complex Plane" to **take** an **i²phone** as a token of your appreciation. 
+
+You get a phone back.], [CommentBody@524d6d96 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of91w5f/ | t1_of91w5f | are you trolling me?
+By my calculations, I'd actually have a -Phone, which means I'd be owing a phone!
+Kids these days.], [CommentBody@152aa092 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92e0y/ | t1_of92e0y | Fine. 
+
+i³phone then. 
+
+But you're giving it to _CP_], [CommentBody@44a7bfbc commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92iz0/ | t1_of92iz0 | imaginary and debt again.
+try and i⁴phone.], [CommentBody@4ef37659 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92yrj/ | t1_of92yrj | Ah.. but because it's an imaginary debt, you don't have to worry about it. 
+
+My logic is safe and sound. Give an i³phone.], [CommentBody@776b83cc commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of93wu1/ | t1_of93wu1 | Though I still don't have a phone anymore. 
+Moral of the story: Don't ask the Complex Number Plane to 'turn' your phone. It either does nothing with (i⁴)^n, makes you lose the phone with i^(2n ± 1), or makes you get in debt with (i²)^n.], [CommentBody@37858383 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of957oj/ | t1_of957oj | Yeah
+I got a bit confused there. 
+
+Maybe we should take this up with higher dimensions (quaternions). Or octonions.], [CommentBody@4e268090 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofb0xdk/ | t1_ofb0xdk | What's a octonion?], [CommentBody@1bb266b3 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofb2bw1/ | t1_ofb2bw1 | this shitpost is so real], [CommentBody@306cf3ea commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/offp110/ | t1_offp110 | no it's actually imaginary], [CommentBody@2beee7ff commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofh3fxq/ | t1_ofh3fxq | absolutely not], [CommentBody@5136d012 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofbus8d/ | t1_ofbus8d | "I'm sorry, you have reached an imaginary number. Please rotate your phone 90 degrees then call again."], [CommentBody@5939a379 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9mu9c/ | t1_of9mu9c | I hate you], [CommentBody@e1de817 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9wysu/ | t1_of9wysu | Elaborate], [CommentBody@52102734 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0htx/ | t1_ofa0htx | Your "joke" made me feel worse than I felt before reading it.], [CommentBody@3541cb24 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0rm4/ | t1_ofa0rm4 | Oh.], [CommentBody@2177849e commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa7ep8/ | t1_ofa7ep8 | Rotate your phone 90 degrees counterclockwise and you got it], [CommentBody@40cb8df7 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofb7470/ | t1_ofb7470 | phi], [CommentBody@13b13b5d commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/offoz6c/ | t1_offoz6c | 1.618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137484754088075386891752126633862223536931793180060766...], [CommentBody@2892dae4 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofbs9jf/ | t1_ofbs9jf | Is this how I turn my iPhone into something less stupid? ], [CommentBody@355ce81c commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/offotb4/ | t1_offotb4 | maybe], [CommentBody@29647f75 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofn3ocv/ | t1_ofn3ocv | cp?
+
+], [CommentBody@3315d2d7 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofz0z35/ | t1_ofz0z35 | i²], [CommentBody@d6e7bab commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofzoglc/ | t1_ofzoglc | e^(iπ)], [CommentBody@5fa07e12 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/og3rs9a/ | t1_og3rs9a | Turn it again and you get -Phone], [CommentBody@55b53d44 commentBody | /r/Gameoverse/comments/1t3qs2r/why_is_the_kit_roblox_pack_so_hot/ojx1cy3/ | t1_ojx1cy3 | wow, people are fast. ], [CommentBody@482bce4f commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojwfiil/ | t1_ojwfiil | ich bin ein Heidelberger ahhh 🥀😭🙏], [CommentBody@366647c2 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojwfclf/ | t1_ojwfclf | bro so German 🥀], [CommentBody@6a6afff2 commentBody | /r/TheDigitalCircus/comments/1t2qvqi/just_a_reminder_we_are_fd/ojvt3ub/ | t1_ojvt3ub | r/suddenlycaralho], [CommentBody@1649b0e6 commentBody | /r/GenAlpha/comments/1t2buaq/stat_your_favorite_song_in_the_comments_and_see/ojrcc91/ | t1_ojrcc91 | elite ball knowedge- wait thews no "r" in knowledge 😐], [CommentBody@865dd6 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqugha/ | t1_ojqugha | bro order off the kids menu at DA ISLAND 😭😭😭😭], [CommentBody@4da4253 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqu65l/ | t1_ojqu65l | Although...], [CommentBody@3972a855 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqu1q6/ | t1_ojqu1q6 | It's a kid, dude.], [CommentBody@62e7f11d commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq6ufm/ | t1_ojq6ufm | Discipline 🗿🍷💀], [CommentBody@503d687a commentBody | /r/Caldruki/comments/1t2r6m9/best_memory_of_my_school_life/ojq6h5r/ | t1_ojq6h5r | https://preview.redd.it/jvythjw0uyyg1.jpeg?width=640&amp;format=pjpg&amp;auto=webp&amp;s=1623f8c698303bdb8c7ac69e36aadf8371c78299], [CommentBody@6a370f4 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojq2xr0/ | t1_ojq2xr0 | wait wouldn't this be the 4th comment?
+
+We shouldn't kill all Jewish people ], [CommentBody@2abf4075 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq2osn/ | t1_ojq2osn | sonkler 🥀🙏😭
+
+👀
+🦷
+], [CommentBody@770d3326 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq0woq/ | t1_ojq0woq | dude no, only Obama has dih.], [CommentBody@4cc8eb05 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojprpj7/ | t1_ojprpj7 | https://preview.redd.it/akvp7k1rhyyg1.png?width=853&amp;format=png&amp;auto=webp&amp;s=ccd6686d7a03e00f11831d6af16ceeb1431ed220], [CommentBody@51f116b8 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojosool/ | t1_ojosool | "🗿🍷Men
+ 🤡🤡Woman"
+ahhh 🥀🙏😭], [CommentBody@19d481b commentBody | /r/TheDigitalCircus/comments/1t2hy0w/no_words_just_thiss/ojo18g3/ | t1_ojo18g3 | Am I allowed to report this? Fuck it I will.], [CommentBody@1f97cf0d commentBody | /r/Gameoverse/comments/1t2i8m7/when_the_pilot_release_will_it_blow_up_and_get/ojnzmwo/ | t1_ojnzmwo | And it's cool to have dreams, but you also need to remember that they're completely unrealistic, and you need to stop trying! — Gangle, 2024], [CommentBody@140c9f39 commentBody | /r/Gameoverse/comments/1t1lp4w/how_long_is_the_pilot_going_to_be/ojnsyrf/ | t1_ojnsyrf | no seriously just stop it's not fun anymore f-bomb yourself ], [CommentBody@4d910fd6 commentBody | /r/GlitchProductions/comments/1t23201/glitchs_dream_of_being_the_most_subbed_australian/ojnsrnv/ | t1_ojnsrnv | I'm still waiting for the moment these two break up.], [CommentBody@26275bef commentBody | /r/Gameoverse/comments/1t1lp4w/how_long_is_the_pilot_going_to_be/ojns7v3/ | t1_ojns7v3 | hey mods can you just fucking ban the fog I can't take it anymore ], [CommentBody@7690781 commentBody | /r/GlitchProductions/comments/1t13zjy/i_cant_believe_it/ojeatq4/ | t1_ojeatq4 | what ], [CommentBody@77eca502 commentBody | /r/GlitchProductions/comments/1t13zjy/i_cant_believe_it/ojeaqhs/ | t1_ojeaqhs | why is Niffty the feminine being of Kaboodle's species? 🥀😭🙏
+
+https://preview.redd.it/7r6ttcsyilyg1.jpeg?width=292&amp;format=pjpg&amp;auto=webp&amp;s=e6f986c99a28cd97b95bf7e4c722d22f2df82872], [CommentBody@3246fb96 commentBody | /r/Gameoverse/comments/1t0wwrt/what_date_do_you_think_the_pilot_is_releaseing_on/oje9k8d/ | t1_oje9k8d | IT'S BEEN CONFIRMED MAY 15TH. GET RID OF THE FOG.], [CommentBody@2e222612 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojq2xr0/ | t1_ojq2xr0 | wait wouldn't this be the 4th comment?
+
+We shouldn't kill all Jewish people ], [CommentBody@61386958 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojqjdz6/ | t1_ojqjdz6 | r/brothrewinafunfact kinda], [CommentBody@73ee04c8 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojr2e1x/ | t1_ojr2e1x | It only counts for chains \[HEAVILY DOWNVOTED\]], [CommentBody@7671cb68 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0g7l/ | t1_ofa0g7l | yeah], [CommentBody@49dc7102 commentBody | /r/LearnJapaneseNovice/comments/1t43t8n/one_1_image_of_silly_randomness_for_your_katakana/ok09h1a/ | t1_ok09h1a | あっ, a downside, r is replaced by a vowel and i can't get used to it not being there. Going to edit my comment.], [CommentBody@6b8ca3c8 commentBody | /r/LearnJapaneseNovice/comments/1t43t8n/one_1_image_of_silly_randomness_for_your_katakana/ok03d9j/ | t1_ok03d9j | I love that katakana is just funny accent English/other European language. It just takes me saying them out loud to realize what they are saying😅
+
+「コーギー」 Corgi  
+「エアコーギー」 Air corgi  
+「アクアコーギー」 Aqua corgi  
+「コーギーケーキ」 Corgi cake], [CommentBody@68c72235 commentBody | /r/addressme/comments/1t416z7/is_anata_mean/ojzz8t0/ | t1_ojzz8t0 |  「えー！私に何て言った？」], [CommentBody@10959ece commentBody | /r/DailyGuess/comments/1t3xzyb/can_you_guess_this_5letter_word_puzzle_by_uyoshnis/ojyqp9w/ | t1_ojyqp9w | &gt;!You gave the hint out! First thing i thought was the answer!&lt;], [CommentBody@3a6bb9bf commentBody | /r/DailyGuess/comments/1t3y0kh/can_you_guess_this_5letter_word_puzzle_by/ojyq5d8/ | t1_ojyq5d8 | ⬜⬜⬜🟨⬜
+
+⬜⬜🟦⬜⬜
+
+🟦⬜⬜⬜🟦
+
+🟦🟦🟦🟦🟦], [CommentBody@34f7cfd9 commentBody | /r/addressme/comments/1t37v5d/why_so_many_2s/ojxwt5f/ | t1_ojxwt5f | If i remember correctly, that extension has been in hot waters recently because their dislike numbers are often inaccurate and because they started implementing malware-like pop-up ads.  
+Just a thing i maybe should inform you about. I only heard this from an outside perspective since i don't use the extension, so i don't really know if my side is completely true. And it was like ages ago.], [CommentBody@65f095f8 commentBody | /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojv4dgr/ | t1_ojv4dgr | [My comment about it](https://www.reddit.com/r/PeterExplainsTheJoke/s/29XuuIhdLu)], [CommentBody@59af0466 commentBody | /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojszygb/ | t1_ojszygb | Risk it, the info is worth the angry comments. If you see, in my comment history, i commented that exact image a couple of hours ago (independent of this post) — i have more upvotes than anyone on the thread and a 100% ratio. It is worth sharing.], [CommentBody@3e6ef8ad commentBody | /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojszk8n/ | t1_ojszk8n | The ? Is the connector. If you want to have a time code, you need to put it. If you don't, it is not necessary at all.], [CommentBody@346d61be commentBody | /r/DailyGuess/comments/1t35wy1/can_you_guess_this_4letter_word_puzzle_by_ufront/ojsuvzh/ | t1_ojsuvzh | 🟦🟨⬜⬜
+
+🟦⬜⬜🟦
+
+🟦⬜🟦🟦
+
+🟦⬜🟦🟦
+
+🟦⬜🟦🟦
+
+🟦⬜🟦🟦
+
+&gt;!😡!&lt;], [CommentBody@55536d9e commentBody | /r/addressme/comments/1t33quq/i_would_like_to_try_it_too/ojsontu/ | t1_ojsontu | ![gif](giphy|3ohs81rDuEz9ioJzAA)], [CommentBody@747edf66 commentBody | /r/DailyGuess/comments/1t32lh7/can_you_guess_this_7letter_word_puzzle_by_uwarm/ojs6zbe/ | t1_ojs6zbe | ⬜⬜⬜🟨🟨🟨⬜
+
+🟨🟨⬜⬜🟨⬜🟨
+
+🟨🟨🟨⬜🟨⬜⬜
+
+🟨🟨🟨🟨🟦⬜⬜
+
+🟦🟦🟦🟦🟦🟦🟦
+
+&gt;!Holy difficult!&lt;], [CommentBody@3d1cfad4 commentBody | /r/PeterExplainsTheJoke/comments/1t2pnsm/petah_i_dont_speak_spanish/ojs2muu/ | t1_ojs2muu | Still viola. You never get confused because viola is a conjugation of violar, and viola is a noun.], [CommentBody@62230c58 commentBody | /r/addressme/comments/1t3018b/canada_should_get_better_at_naming_territories/ojrp3gc/ | t1_ojrp3gc | It is tho the middle of the most western territory and the most northern territory.
+
+https://preview.redd.it/2r15w3qs70zg1.png?width=940&amp;format=png&amp;auto=webp&amp;s=234a05da86f82ce8e0ad79f76db921e84a36b381], [CommentBody@2cd2a21f commentBody | /r/addressme/comments/1t2tsvi/barber_got_zombies_hairline_right/ojqkfkj/ | t1_ojqkfkj | https://preview.redd.it/p9tktjsy5zyg1.jpeg?width=640&amp;format=pjpg&amp;auto=webp&amp;s=2883dc35737b39e96ea2334f737c40e443fc8981], [CommentBody@2e55dd0c commentBody | /r/fivenightsatfreddys/comments/1t2d2kt/hmmmm/ojmyvbl/ | t1_ojmyvbl | I don't think so, like maybe Susie, she's like the generic white blond little girl so she appears everywhere but the rest... they're just two ginger kids, a white kid and a black kid.
+
+Edit: now I'm actually wondering, like where did the design of the MCI in the fnaf fandom come from? Cuz i only remember Sussie's design appearing in a FNaF 6 minigame.], [CommentBody@74455848 commentBody | /r/teenagers/comments/1t291fw/nazi_germany_just_attacked_poland/ojmnq4v/ | t1_ojmnq4v | And the snail is from alabama], [CommentBody@e7edb54 commentBody | /r/conlangs/comments/1t265hv/i_made_a_language_named_damserlandic/ojljkjw/ | t1_ojljkjw | I'm using your words. Vaun(When) yötun(your) Grammar.
+
+Do you have the grammar yet?], [CommentBody@378542de commentBody | /r/conlangs/comments/1t265hv/i_made_a_language_named_damserlandic/ojlis39/ | t1_ojlis39 | Vaun yötun grammar?], [CommentBody@3738449f commentBody | /r/DailyGuess/comments/1t251ud/can_you_guess_this_5letter_word_puzzle_by_umiddle/ojlg7ji/ | t1_ojlg7ji | ⬜⬜🟨⬜⬜
+
+⬜🟦🟦⬜⬜
+
+⬜⬜⬜⬜⬜
+
+🟦🟦⬜🟦⬜
+
+🟦🟦🟦🟦🟦], [CommentBody@69e1dd28 commentBody | /r/LearnJapaneseNovice/comments/1t233fr/learning_kanji_like_in_japanese_elementary_school/ojlerv4/ | t1_ojlerv4 | I've always wondered how mnemonics work so well for people — to me they sound so irrelevant, to the point i'm making more effort remembering the mnemonic than the kanji.
+
+Etymology and Vocab is my only way.], [CommentBody@11bd0f3b commentBody | /r/PeterExplainsTheJoke/comments/1t20ebh/petah_help/ojkb77b/ | t1_ojkb77b | https://preview.redd.it/0p4hcy948syg1.jpeg?width=1455&amp;format=pjpg&amp;auto=webp&amp;s=d5f9ee6d42740040698d4aec1a33ed3bc129421c], [CommentBody@c333c60 commentBody | /r/DailyGuess/comments/1t20b65/can_you_guess_this_5letter_word_puzzle_by_uequal/ojkaw8c/ | t1_ojkaw8c | ⬜🟨🟦🟦🟨
+
+🟨🟦🟦🟦⬜
+
+🟦🟦🟦🟦🟦], [CommentBody@79da8dc5 commentBody | /r/PeterExplainsTheJoke/comments/1t1ymp6/purrsonalized_color_profiles/ojk8ph1/ | t1_ojk8ph1 | r/trvthnvke], [CommentBody@1eb5174b commentBody | /r/mapporncirclejerk/comments/1t1xcge/ouch_everyone_is_gonna_be_offended/ojk2m1v/ | t1_ojk2m1v | The Mongolian horse was famously tiny to European standards.], [CommentBody@67080771 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zv0b/ | t1_of8zv0b | Dang I didn't think about that.], [CommentBody@72cde7cc commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of91nzy/ | t1_of91nzy | No worries. 
+
+Just ask the "Complex Plane" to **take** an **i²phone** as a token of your appreciation. 
+
+You get a phone back.], [CommentBody@5fd4f8f5 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of91w5f/ | t1_of91w5f | are you trolling me?
+By my calculations, I'd actually have a -Phone, which means I'd be owing a phone!
+Kids these days.], [CommentBody@696da30b commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92e0y/ | t1_of92e0y | Fine. 
+
+i³phone then. 
+
+But you're giving it to _CP_], [CommentBody@4e7912d8 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92iz0/ | t1_of92iz0 | imaginary and debt again.
+try and i⁴phone.], [CommentBody@53976f5c commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92yrj/ | t1_of92yrj | Ah.. but because it's an imaginary debt, you don't have to worry about it. 
+
+My logic is safe and sound. Give an i³phone.], [CommentBody@2bfc268b commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of93wu1/ | t1_of93wu1 | Though I still don't have a phone anymore. 
+Moral of the story: Don't ask the Complex Number Plane to 'turn' your phone. It either does nothing with (i⁴)^n, makes you lose the phone with i^(2n ± 1), or makes you get in debt with (i²)^n.], [CommentBody@2f8dad04 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of957oj/ | t1_of957oj | Yeah
+I got a bit confused there. 
+
+Maybe we should take this up with higher dimensions (quaternions). Or octonions.], [CommentBody@29e495ff commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofb0xdk/ | t1_ofb0xdk | What's a octonion?]]
+Listings: 46 [[ListingBody@41e1e210 ListingBody | elements: 1], [ListingBody@be35cd9 ListingBody | elements: 16], [ListingBody@4944252c ListingBody | elements: 1], [ListingBody@44821a96 ListingBody | elements: 1], [ListingBody@a3d8174 ListingBody | elements: 3], [ListingBody@1ba9117e ListingBody | elements: 1], [ListingBody@732c2a62 ListingBody | elements: 1], [ListingBody@272ed83b ListingBody | elements: 2], [ListingBody@41fecb8b ListingBody | elements: 1], [ListingBody@120f102b ListingBody | elements: 1], [ListingBody@625732 ListingBody | elements: 1], [ListingBody@51dcb805 ListingBody | elements: 1], [ListingBody@66498326 ListingBody | elements: 1], [ListingBody@cad498c ListingBody | elements: 1], [ListingBody@1e6454ec ListingBody | elements: 1], [ListingBody@2accdbb5 ListingBody | elements: 1], [ListingBody@b62d79 ListingBody | elements: 1], [ListingBody@6631f5ca ListingBody | elements: 1], [ListingBody@5ace1ed4 ListingBody | elements: 1], [ListingBody@1613674b ListingBody | elements: 1], [ListingBody@27ff5d15 ListingBody | elements: 1], [ListingBody@4e096385 ListingBody | elements: 1], [ListingBody@649bec2e ListingBody | elements: 1], [ListingBody@693fe6c9 ListingBody | elements: 1], [ListingBody@34f5090e ListingBody | elements: 1], [ListingBody@31e5415e ListingBody | elements: 1], [ListingBody@a2431d0 ListingBody | elements: 0], [ListingBody@1cbb87f3 ListingBody | elements: 6], [ListingBody@1a4013 ListingBody | elements: 25], [ListingBody@1b6e1eff ListingBody | elements: 12], [ListingBody@306f16f3 ListingBody | elements: 1], [ListingBody@702b8b12 ListingBody | elements: 1], [ListingBody@22e357dc ListingBody | elements: 2], [ListingBody@49912c99 ListingBody | elements: 1], [ListingBody@10163d6 ListingBody | elements: 1], [ListingBody@2dde1bff ListingBody | elements: 25], [ListingBody@15bbf42f ListingBody | elements: 1], [ListingBody@550ee7e5 ListingBody | elements: 1], [ListingBody@5f9b2141 ListingBody | elements: 1], [ListingBody@247d8ae ListingBody | elements: 1], [ListingBody@48974e45 ListingBody | elements: 1], [ListingBody@6a84a97d ListingBody | elements: 1], [ListingBody@6c130c45 ListingBody | elements: 1], [ListingBody@50ad3bc1 ListingBody | elements: 1], [ListingBody@223aa2f7 ListingBody | elements: 1], [ListingBody@6d3a388c ListingBody | elements: 1]]
+Usernames: 26 [Aton_Otsos, jacob643, AbdullahMRiad, [deleted], NefariousnessFar7826, Frannnnnnnnn, the3gs, AutoModerator, juanohulomo1234, martyboulders, nas_ki, KreeptonChronicler, QaSpel, cod3builder, Suspicious-Cut-3998, M10doreddit, thvirtuo, Global_Interview6311, Frostbyte_13, guest111i, Royal_Lustir, rorodar, Rude_Anywhere_, johnporksigma, drLoveF, Zziggith]
+Subreddits: 23 [GlitchProductions, Gameoverse, PeterExplainsTheJoke, TheDigitalCircus, GenAlpha, addressme, teenagers, Minecraft, mathmemes, learnpython, DailyGuess, fivenightsatfreddys, mapporncirclejerk, egg_irl, feedthebeast, namesoundalikes, Caldruki, math, LearnJapaneseNovice, redstone, godot, AskLGBT, conlangs]
+Loaded Pages: 10 [https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json, https://www.reddit.com/user/the3gs/submitted/.json, https://www.reddit.com/i.imgur.com/d7BCUHj.png/.json, https://www.reddit.com/user/Rude_Anywhere_/submitted/.json, https://www.reddit.com/user/Frostbyte_13/comments/.json, https://www.reddit.com/user/KreeptonChronicler/submitted/.json, https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/of8zv0b/.json, https://www.reddit.com/r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojq2xr0/.json, https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/ofa0g7l/.json, https://www.reddit.com/user/NefariousnessFar7826/.json]
+Pending (finded): 110 ArraySet@193f604a
+Mapped Posts (ID): 21 {t3_4dqxlu=[PostBody@36d585c postBody | http://imgur.com/a/0GC68 | t3_4dqxlu | ], t3_2tfonu=[PostBody@671a5887 postBody | https://www.reddit.com/r/feedthebeast/comments/2tfonu/light_weight_modpack/ | t3_2tfonu | I want a more lightweight modpack.
+
+I have looked into FTB lite 3 but I find mods I don't think I will ever need/use.
+
+Does anybody know of a modpack that dosent have many mods that aren't nessesary?
+
+], t3_gvwr67=[PostBody@dd0c991 postBody | https://v.redd.it/y38u513cyp251 | t3_gvwr67 | ], t3_1t2mz7q=[PostBody@c03cf28 postBody | https://i.redd.it/pz4ovb2dnxyg1.jpeg | t3_1t2mz7q | "Can we high five at school tomorrow"
+
+"Shut up"
+
+\*crush took 167 screenshots of chat\*
+
+ENRIQUEEEEEEE], t3_1sgqzqr=[PostBody@ba54932 postBody | https://www.reddit.com/r/AskLGBT/comments/1sgqzqr/my_mom_said_i_cant_be_a_lesbian_because_im_not/ | t3_1sgqzqr | Unnecessary context:  
+&gt;!I'm a biological male, but have enjoyed thinking of myself as a girl/being perceived as a girl for almost a year. I have even started cross-dressing, notably with the help of my mom. The first time I had these thoughts were during my early teenage years, but I brushed these off because I thought it was impossible to be gay (lesbian) *and* trans.!&lt;
+
+&gt;!My mom was raised in a Christian conservative environment but she's more centrist now, partially because of her being more of a tomboy. She even cross-dressed before puberty, as it gave her more mobility. She told me that during her childhood, she considered being lesbian, or being a boy. She eventually brushed off those ideas because she "matured out of them" and "was just envious of her brother". I have considered that this could've been caused by said conservative environment oppressing LGBTQ+ people.!&lt;
+
+Because of this, she's also insisted that *I* cannot be trans or lesbian. The former because I "haven't matured enough to fully understand myself" and the latter because... my room isn't tidy enough?  
+This initially struck me like the "gay men are more fashionable" stereotype, but I haven't heard this anywhere. Have other people also heard of this or was it just my mom's weird upbringing?], t3_2o6mmw=[PostBody@3c947bc5 postBody | https://www.reddit.com/r/learnpython/comments/2o6mmw/gui_help/ | t3_2o6mmw | What are my options? 
+
+I currently use tkinter, is that fine or should I use something different?
+
+], t3_4y1laa=[PostBody@69fb6037 postBody | https://www.reddit.com/r/learnpython/comments/4y1laa/put_item_into_list_sort_list_and_get_items_new/ | t3_4y1laa | I need to take an item, put it into a list and find the item's new index. Is there any way to do this semi-simply? If it helps the list should be sorted beforehand.
+
+
+
+Also, is there any way to sort a list based on an other list
+
+for example:
+
+     list1 = [1,3,2,4]
+     list2 = [1,2,3]
+     list2.sort(list1)
+     print(list2)#[1,3,2]
+], t3_4dcisn=[PostBody@87a85e1 postBody | http://i.imgur.com/d7BCUHj.png | t3_4dcisn | ], t3_1sgzvxx=[PostBody@6497b078 postBody | https://www.reddit.com/gallery/1sgzvxx | t3_1sgzvxx | ], t3_1gqr7fp=[PostBody@71c3b41 postBody | https://i.redd.it/g1c7r9fk9r0e1.jpeg | t3_1gqr7fp | ], t3_5ojhio=[PostBody@5f16132a postBody | https://www.reddit.com/r/godot/comments/5ojhio/menu_like_angry_birds/ | t3_5ojhio | How would I make a menu like angry birds such that once you complete a level it has a popup with how many stars you achieved based on certain criteria. I also want to save these stars on a level to level biases so that every time I open the app it is still recorded.
+
+
+Sorry if this was confusing, thanks.], t3_2iywtr=[PostBody@1356d4d4 postBody | https://www.reddit.com/r/redstone/comments/2iywtr/disabling_crafting/ | t3_2iywtr | Can anyone think of a way to disable crafting useing command blocks?
+I want to disable crafting at tables and in your inventory.
+], t3_1mg12kz=[PostBody@343570b7 postBody | https://i.redd.it/rt16f7c86ogf1.png | t3_1mg12kz | ], t3_1t2n7p1=[PostBody@236e3f4e postBody | https://i.redd.it/qyvm7hg0pxyg1.jpeg | t3_1t2n7p1 | ], t3_1phlc14=[PostBody@6bf0219d postBody | https://www.reddit.com/r/math/comments/1phlc14/metaballs_with_fixed_values/ | t3_1phlc14 | Metaballs (https://en.wikipedia.org/wiki/Metaballs) are a common digital art demo with some practical uses, and there are several variations that can be used, but, while visibly interesting, they don't tend to be very consistent with their volume and surface area, and I have an idea that would work best with some of these values remaining constant.
+
+Is there any way that a metaball like visual, where certain values are fixed. Specifically, I would like one that maintains the combined volume of all balls, and potentially one that maintains the combined surface area of all balls (I know these two are mutually exclusive, just want to explore several options)
+
+I would prefer a solution that works in arbitrarily dimensions, but 3 dimensions is my main starting point.
+
+For those who are curious as to why I am interested: I have a (not even half baked) idea for a video game where you are a character on the surface of a metaball, and the world morphs around you when the balls pass through each other. No idea what the objective would be, but I think having a constant surface area would make it work a lot better.], t3_1mw6dmj=[PostBody@28975c28 postBody | https://i.redd.it/l749l6k3fckf1.png | t3_1mw6dmj | ], t3_1mw6hx3=[PostBody@3943a2be postBody | https://i.redd.it/mybe90avgckf1.png | t3_1mw6hx3 | ], t3_2t8lc4=[PostBody@5552768b postBody | http://imgur.com/I4Zh0bq | t3_2t8lc4 | ], t3_1gqr5mo=[PostBody@157853da postBody | https://i.redd.it/2yt61a5f9r0e1.png | t3_1gqr5mo | ], t3_2lw8rj=[PostBody@609db43b postBody | https://www.reddit.com/r/feedthebeast/comments/2lw8rj/what_modpack_is_the_best/ | t3_2lw8rj | I don't have the best of computers so I can't have to many mods. 
+
+I want a wide range of mods but I don't need to many of the same purpose.  
+
+I would prefer 1.7.10 because its newer. 
+
+Please state the advantages to each pack.
+
+Thank you.], t3_2izk5k=[PostBody@55f616cf postBody | https://www.reddit.com/r/Minecraft/comments/2izk5k/ideas_for_an_apocoliptic_survival_map/ | t3_2izk5k | I want to make a map that uses command blocks to change the suvival aspect of minecraft.
+I already have several ideas including completely redone crafting, only zombies spawn but some have different abilities, and several other thing like Thirst, revised hunger, and attack skill levels.
+
+If you have any other ideas please comment them. 8D]}
+Mapped Comments (ID): 93 {t1_of9ci6s=[CommentBody@8317c52 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9ci6s/ | t1_of9ci6s | No, we very much do], t1_ojq6ufm=[CommentBody@62e7f11d commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq6ufm/ | t1_ojq6ufm | Discipline 🗿🍷💀], t1_of9wxbl=[CommentBody@7e9131d5 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9wxbl/ | t1_of9wxbl | I'm a bad boy], t1_offotb4=[CommentBody@355ce81c commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/offotb4/ | t1_offotb4 | maybe], t1_of9bpif=[CommentBody@78ffe6dc commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9bpif/ | t1_of9bpif | [deleted]], t1_ojr2e1x=[CommentBody@73ee04c8 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojr2e1x/ | t1_ojr2e1x | It only counts for chains \[HEAVILY DOWNVOTED\]], t1_of8zv0b=[CommentBody@67080771 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zv0b/ | t1_of8zv0b | Dang I didn't think about that.], t1_ofz0z35=[CommentBody@3315d2d7 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofz0z35/ | t1_ofz0z35 | i²], t1_ojq2xr0=[CommentBody@2e222612 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojq2xr0/ | t1_ojq2xr0 | wait wouldn't this be the 4th comment?
+
+We shouldn't kill all Jewish people ], t1_ofb7470=[CommentBody@40cb8df7 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofb7470/ | t1_ofb7470 | phi], t1_of91nzy=[CommentBody@72cde7cc commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of91nzy/ | t1_of91nzy | No worries. 
+
+Just ask the "Complex Plane" to **take** an **i²phone** as a token of your appreciation. 
+
+You get a phone back.], t1_ojxwt5f=[CommentBody@34f7cfd9 commentBody | /r/addressme/comments/1t37v5d/why_so_many_2s/ojxwt5f/ | t1_ojxwt5f | If i remember correctly, that extension has been in hot waters recently because their dislike numbers are often inaccurate and because they started implementing malware-like pop-up ads.  
+Just a thing i maybe should inform you about. I only heard this from an outside perspective since i don't use the extension, so i don't really know if my side is completely true. And it was like ages ago.], t1_ojwfclf=[CommentBody@366647c2 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojwfclf/ | t1_ojwfclf | bro so German 🥀], t1_of9k1bm=[CommentBody@2cdd0d4b commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9k1bm/ | t1_of9k1bm | I've never seen someone label the imaginary axis ix, that's diabolical😭], t1_ojlg7ji=[CommentBody@3738449f commentBody | /r/DailyGuess/comments/1t251ud/can_you_guess_this_5letter_word_puzzle_by_umiddle/ojlg7ji/ | t1_ojlg7ji | ⬜⬜🟨⬜⬜
+
+⬜🟦🟦⬜⬜
+
+⬜⬜⬜⬜⬜
+
+🟦🟦⬜🟦⬜
+
+🟦🟦🟦🟦🟦], t1_of9mu9c=[CommentBody@5939a379 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9mu9c/ | t1_of9mu9c | I hate you], t1_ojlerv4=[CommentBody@69e1dd28 commentBody | /r/LearnJapaneseNovice/comments/1t233fr/learning_kanji_like_in_japanese_elementary_school/ojlerv4/ | t1_ojlerv4 | I've always wondered how mnemonics work so well for people — to me they sound so irrelevant, to the point i'm making more effort remembering the mnemonic than the kanji.
+
+Etymology and Vocab is my only way.], t1_of8y43z=[CommentBody@41c2284a commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8y43z/ | t1_of8y43z | Check out our new Discord server! https://discord.gg/e7EKRZq3dG
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/mathmemes) if you have any questions or concerns.*], t1_ofh3fxq=[CommentBody@2beee7ff commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofh3fxq/ | t1_ofh3fxq | absolutely not], t1_ofa5zod=[CommentBody@f381794 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa5zod/ | t1_ofa5zod |  A CP one might say.], t1_ojzz8t0=[CommentBody@68c72235 commentBody | /r/addressme/comments/1t416z7/is_anata_mean/ojzz8t0/ | t1_ojzz8t0 |  「えー！私に何て言った？」], t1_of8yre0=[CommentBody@1fb700ee commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8yre0/ | t1_of8yre0 | don't say cp instead of complex plane brother], t1_ojqjdz6=[CommentBody@61386958 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojqjdz6/ | t1_ojqjdz6 | r/brothrewinafunfact kinda], t1_offoz6c=[CommentBody@13b13b5d commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/offoz6c/ | t1_offoz6c | 1.618033988749894848204586834365638117720309179805762862135448622705260462818902449707207204189391137484754088075386891752126633862223536931793180060766...], t1_ojqu1q6=[CommentBody@3972a855 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqu1q6/ | t1_ojqu1q6 | It's a kid, dude.], t1_ofbs9jf=[CommentBody@2892dae4 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofbs9jf/ | t1_ofbs9jf | Is this how I turn my iPhone into something less stupid? ], t1_ojq0woq=[CommentBody@770d3326 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq0woq/ | t1_ojq0woq | dude no, only Obama has dih.], t1_of9wysu=[CommentBody@e1de817 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9wysu/ | t1_of9wysu | Elaborate], t1_og3rs9a=[CommentBody@5fa07e12 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/og3rs9a/ | t1_og3rs9a | Turn it again and you get -Phone], t1_ojv4dgr=[CommentBody@65f095f8 commentBody | /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojv4dgr/ | t1_ojv4dgr | [My comment about it](https://www.reddit.com/r/PeterExplainsTheJoke/s/29XuuIhdLu)], t1_ojs6zbe=[CommentBody@747edf66 commentBody | /r/DailyGuess/comments/1t32lh7/can_you_guess_this_7letter_word_puzzle_by_uwarm/ojs6zbe/ | t1_ojs6zbe | ⬜⬜⬜🟨🟨🟨⬜
+
+🟨🟨⬜⬜🟨⬜🟨
+
+🟨🟨🟨⬜🟨⬜⬜
+
+🟨🟨🟨🟨🟦⬜⬜
+
+🟦🟦🟦🟦🟦🟦🟦
+
+&gt;!Holy difficult!&lt;], t1_ok09h1a=[CommentBody@49dc7102 commentBody | /r/LearnJapaneseNovice/comments/1t43t8n/one_1_image_of_silly_randomness_for_your_katakana/ok09h1a/ | t1_ok09h1a | あっ, a downside, r is replaced by a vowel and i can't get used to it not being there. Going to edit my comment.], t1_of97tw7=[CommentBody@46fa7c39 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of97tw7/ | t1_of97tw7 | ![gif](giphy|TcYsW9HlxtDNJ6mBoe)
+
+This but with complex plane], t1_offp110=[CommentBody@306cf3ea commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/offp110/ | t1_offp110 | no it's actually imaginary], t1_ojszk8n=[CommentBody@3e6ef8ad commentBody | /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojszk8n/ | t1_ojszk8n | The ? Is the connector. If you want to have a time code, you need to put it. If you don't, it is not necessary at all.], t1_ojk2m1v=[CommentBody@1eb5174b commentBody | /r/mapporncirclejerk/comments/1t1xcge/ouch_everyone_is_gonna_be_offended/ojk2m1v/ | t1_ojk2m1v | The Mongolian horse was famously tiny to European standards.], t1_of92e0y=[CommentBody@696da30b commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92e0y/ | t1_of92e0y | Fine. 
+
+i³phone then. 
+
+But you're giving it to _CP_], t1_ojnsrnv=[CommentBody@4d910fd6 commentBody | /r/GlitchProductions/comments/1t23201/glitchs_dream_of_being_the_most_subbed_australian/ojnsrnv/ | t1_ojnsrnv | I'm still waiting for the moment these two break up.], t1_of92yrj=[CommentBody@53976f5c commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92yrj/ | t1_of92yrj | Ah.. but because it's an imaginary debt, you don't have to worry about it. 
+
+My logic is safe and sound. Give an i³phone.], t1_of957oj=[CommentBody@2f8dad04 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of957oj/ | t1_of957oj | Yeah
+I got a bit confused there. 
+
+Maybe we should take this up with higher dimensions (quaternions). Or octonions.], t1_ofa0g7l=[CommentBody@7671cb68 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0g7l/ | t1_ofa0g7l | yeah], t1_ojsuvzh=[CommentBody@346d61be commentBody | /r/DailyGuess/comments/1t35wy1/can_you_guess_this_4letter_word_puzzle_by_ufront/ojsuvzh/ | t1_ojsuvzh | 🟦🟨⬜⬜
+
+🟦⬜⬜🟦
+
+🟦⬜🟦🟦
+
+🟦⬜🟦🟦
+
+🟦⬜🟦🟦
+
+🟦⬜🟦🟦
+
+&gt;!😡!&lt;], t1_oje9k8d=[CommentBody@3246fb96 commentBody | /r/Gameoverse/comments/1t0wwrt/what_date_do_you_think_the_pilot_is_releaseing_on/oje9k8d/ | t1_oje9k8d | IT'S BEEN CONFIRMED MAY 15TH. GET RID OF THE FOG.], t1_ojyq5d8=[CommentBody@3a6bb9bf commentBody | /r/DailyGuess/comments/1t3y0kh/can_you_guess_this_5letter_word_puzzle_by/ojyq5d8/ | t1_ojyq5d8 | ⬜⬜⬜🟨⬜
+
+⬜⬜🟦⬜⬜
+
+🟦⬜⬜⬜🟦
+
+🟦🟦🟦🟦🟦], t1_ofa5wal=[CommentBody@5f683daf commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa5wal/ | t1_ofa5wal | that's the engagement bait I'll accept], t1_ojlis39=[CommentBody@378542de commentBody | /r/conlangs/comments/1t265hv/i_made_a_language_named_damserlandic/ojlis39/ | t1_ojlis39 | Vaun yötun grammar?], t1_ojsontu=[CommentBody@55536d9e commentBody | /r/addressme/comments/1t33quq/i_would_like_to_try_it_too/ojsontu/ | t1_ojsontu | ![gif](giphy|3ohs81rDuEz9ioJzAA)], t1_of97od6=[CommentBody@6f27a732 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of97od6/ | t1_of97od6 | Sounds like it would be a complex process], t1_ojyqp9w=[CommentBody@10959ece commentBody | /r/DailyGuess/comments/1t3xzyb/can_you_guess_this_5letter_word_puzzle_by_uyoshnis/ojyqp9w/ | t1_ojyqp9w | &gt;!You gave the hint out! First thing i thought was the answer!&lt;], t1_ojq6h5r=[CommentBody@503d687a commentBody | /r/Caldruki/comments/1t2r6m9/best_memory_of_my_school_life/ojq6h5r/ | t1_ojq6h5r | https://preview.redd.it/jvythjw0uyyg1.jpeg?width=640&amp;format=pjpg&amp;auto=webp&amp;s=1623f8c698303bdb8c7ac69e36aadf8371c78299], t1_ojprpj7=[CommentBody@4cc8eb05 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojprpj7/ | t1_ojprpj7 | https://preview.redd.it/akvp7k1rhyyg1.png?width=853&amp;format=png&amp;auto=webp&amp;s=ccd6686d7a03e00f11831d6af16ceeb1431ed220], t1_ofb2bw1=[CommentBody@1bb266b3 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofb2bw1/ | t1_ofb2bw1 | this shitpost is so real], t1_ojeaqhs=[CommentBody@77eca502 commentBody | /r/GlitchProductions/comments/1t13zjy/i_cant_believe_it/ojeaqhs/ | t1_ojeaqhs | why is Niffty the feminine being of Kaboodle's species? 🥀😭🙏
+
+https://preview.redd.it/7r6ttcsyilyg1.jpeg?width=292&amp;format=pjpg&amp;auto=webp&amp;s=e6f986c99a28cd97b95bf7e4c722d22f2df82872], t1_ojwfiil=[CommentBody@482bce4f commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojwfiil/ | t1_ojwfiil | ich bin ein Heidelberger ahhh 🥀😭🙏], t1_ojs2muu=[CommentBody@3d1cfad4 commentBody | /r/PeterExplainsTheJoke/comments/1t2pnsm/petah_i_dont_speak_spanish/ojs2muu/ | t1_ojs2muu | Still viola. You never get confused because viola is a conjugation of violar, and viola is a noun.], t1_of8zh2l=[CommentBody@4f67eb2a commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zh2l/ | t1_of8zh2l | That's part of the joke, brother.
+I do whatever can give me the most engagement.
+Thanks for your comment.], t1_ofa0be3=[CommentBody@76f2bbc1 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0be3/ | t1_ofa0be3 | I’m glad you dedicated the entire second slide to CP!], t1_ojmyvbl=[CommentBody@2e55dd0c commentBody | /r/fivenightsatfreddys/comments/1t2d2kt/hmmmm/ojmyvbl/ | t1_ojmyvbl | I don't think so, like maybe Susie, she's like the generic white blond little girl so she appears everywhere but the rest... they're just two ginger kids, a white kid and a black kid.
+
+Edit: now I'm actually wondering, like where did the design of the MCI in the fnaf fandom come from? Cuz i only remember Sussie's design appearing in a FNaF 6 minigame.], t1_ojrp3gc=[CommentBody@62230c58 commentBody | /r/addressme/comments/1t3018b/canada_should_get_better_at_naming_territories/ojrp3gc/ | t1_ojrp3gc | It is tho the middle of the most western territory and the most northern territory.
+
+https://preview.redd.it/2r15w3qs70zg1.png?width=940&amp;format=png&amp;auto=webp&amp;s=234a05da86f82ce8e0ad79f76db921e84a36b381], t1_ojk8ph1=[CommentBody@79da8dc5 commentBody | /r/PeterExplainsTheJoke/comments/1t1ymp6/purrsonalized_color_profiles/ojk8ph1/ | t1_ojk8ph1 | r/trvthnvke], t1_of8zjz7=[CommentBody@2e1d27ba commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zjz7/ | t1_of8zjz7 | Complex Plane: Of course. 
+
+**Multiplies phone by _i_**
+
+Now your phone is imaginary. Have a good day!], t1_of93wu1=[CommentBody@2bfc268b commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of93wu1/ | t1_of93wu1 | Though I still don't have a phone anymore. 
+Moral of the story: Don't ask the Complex Number Plane to 'turn' your phone. It either does nothing with (i⁴)^n, makes you lose the phone with i^(2n ± 1), or makes you get in debt with (i²)^n.], t1_ojnzmwo=[CommentBody@1f97cf0d commentBody | /r/Gameoverse/comments/1t2i8m7/when_the_pilot_release_will_it_blow_up_and_get/ojnzmwo/ | t1_ojnzmwo | And it's cool to have dreams, but you also need to remember that they're completely unrealistic, and you need to stop trying! — Gangle, 2024], t1_ofa0rm4=[CommentBody@3541cb24 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0rm4/ | t1_ofa0rm4 | Oh.], t1_ojvt3ub=[CommentBody@6a6afff2 commentBody | /r/TheDigitalCircus/comments/1t2qvqi/just_a_reminder_we_are_fd/ojvt3ub/ | t1_ojvt3ub | r/suddenlycaralho], t1_ojosool=[CommentBody@51f116b8 commentBody | /r/Caldruki/comments/1t2mz7q/adrian_explain_the_rejection/ojosool/ | t1_ojosool | "🗿🍷Men
+ 🤡🤡Woman"
+ahhh 🥀🙏😭], t1_ojeatq4=[CommentBody@7690781 commentBody | /r/GlitchProductions/comments/1t13zjy/i_cant_believe_it/ojeatq4/ | t1_ojeatq4 | what ], t1_ofbus8d=[CommentBody@5136d012 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofbus8d/ | t1_ofbus8d | "I'm sorry, you have reached an imaginary number. Please rotate your phone 90 degrees then call again."], t1_ojo18g3=[CommentBody@19d481b commentBody | /r/TheDigitalCircus/comments/1t2hy0w/no_words_just_thiss/ojo18g3/ | t1_ojo18g3 | Am I allowed to report this? Fuck it I will.], t1_of8zcum=[CommentBody@53aad5d5 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of8zcum/ | t1_of8zcum | HAAAANK!
+
+HANK, DON'T ABBREVIATE COMPLEX PLANE.
+
+HAAAANK!], t1_of92iz0=[CommentBody@4e7912d8 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of92iz0/ | t1_of92iz0 | imaginary and debt again.
+try and i⁴phone.], t1_ojnsyrf=[CommentBody@140c9f39 commentBody | /r/Gameoverse/comments/1t1lp4w/how_long_is_the_pilot_going_to_be/ojnsyrf/ | t1_ojnsyrf | no seriously just stop it's not fun anymore f-bomb yourself ], t1_ok03d9j=[CommentBody@6b8ca3c8 commentBody | /r/LearnJapaneseNovice/comments/1t43t8n/one_1_image_of_silly_randomness_for_your_katakana/ok03d9j/ | t1_ok03d9j | I love that katakana is just funny accent English/other European language. It just takes me saying them out loud to realize what they are saying😅
+
+「コーギー」 Corgi  
+「エアコーギー」 Air corgi  
+「アクアコーギー」 Aqua corgi  
+「コーギーケーキ」 Corgi cake], t1_ojszygb=[CommentBody@59af0466 commentBody | /r/PeterExplainsTheJoke/comments/1t353wm/pethaaaaaaaaaaaaa/ojszygb/ | t1_ojszygb | Risk it, the info is worth the angry comments. If you see, in my comment history, i commented that exact image a couple of hours ago (independent of this post) — i have more upvotes than anyone on the thread and a 100% ratio. It is worth sharing.], t1_ofa0htx=[CommentBody@52102734 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa0htx/ | t1_ofa0htx | Your "joke" made me feel worse than I felt before reading it.], t1_of97qyw=[CommentBody@6c779568 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of97qyw/ | t1_of97qyw | Give this man a *TRUE*], t1_ojqugha=[CommentBody@865dd6 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqugha/ | t1_ojqugha | bro order off the kids menu at DA ISLAND 😭😭😭😭], t1_ojmnq4v=[CommentBody@74455848 commentBody | /r/teenagers/comments/1t291fw/nazi_germany_just_attacked_poland/ojmnq4v/ | t1_ojmnq4v | And the snail is from alabama], t1_ofzoglc=[CommentBody@d6e7bab commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofzoglc/ | t1_ofzoglc | e^(iπ)], t1_ojljkjw=[CommentBody@e7edb54 commentBody | /r/conlangs/comments/1t265hv/i_made_a_language_named_damserlandic/ojljkjw/ | t1_ojljkjw | I'm using your words. Vaun(When) yötun(your) Grammar.
+
+Do you have the grammar yet?], t1_ofb0xdk=[CommentBody@29e495ff commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofb0xdk/ | t1_ofb0xdk | What's a octonion?], t1_ojrcc91=[CommentBody@1649b0e6 commentBody | /r/GenAlpha/comments/1t2buaq/stat_your_favorite_song_in_the_comments_and_see/ojrcc91/ | t1_ojrcc91 | elite ball knowedge- wait thews no "r" in knowledge 😐], t1_ojkb77b=[CommentBody@11bd0f3b commentBody | /r/PeterExplainsTheJoke/comments/1t20ebh/petah_help/ojkb77b/ | t1_ojkb77b | https://preview.redd.it/0p4hcy948syg1.jpeg?width=1455&amp;format=pjpg&amp;auto=webp&amp;s=d5f9ee6d42740040698d4aec1a33ed3bc129421c], t1_ojkaw8c=[CommentBody@c333c60 commentBody | /r/DailyGuess/comments/1t20b65/can_you_guess_this_5letter_word_puzzle_by_uequal/ojkaw8c/ | t1_ojkaw8c | ⬜🟨🟦🟦🟨
+
+🟨🟦🟦🟦⬜
+
+🟦🟦🟦🟦🟦], t1_of91w5f=[CommentBody@5fd4f8f5 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of91w5f/ | t1_of91w5f | are you trolling me?
+By my calculations, I'd actually have a -Phone, which means I'd be owing a phone!
+Kids these days.], t1_ojq2osn=[CommentBody@2abf4075 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojq2osn/ | t1_ojq2osn | sonkler 🥀🙏😭
+
+👀
+🦷
+], t1_ojns7v3=[CommentBody@26275bef commentBody | /r/Gameoverse/comments/1t1lp4w/how_long_is_the_pilot_going_to_be/ojns7v3/ | t1_ojns7v3 | hey mods can you just fucking ban the fog I can't take it anymore ], t1_of9h13c=[CommentBody@4a668b6e commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/of9h13c/ | t1_of9h13c | I respect the hustle.], t1_ofa7ep8=[CommentBody@2177849e commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofa7ep8/ | t1_ofa7ep8 | Rotate your phone 90 degrees counterclockwise and you got it], t1_ofn3ocv=[CommentBody@29647f75 commentBody | /r/mathmemes/comments/1sgzvxx/the_1phone/ofn3ocv/ | t1_ofn3ocv | cp?
+
+], t1_ojqkfkj=[CommentBody@2cd2a21f commentBody | /r/addressme/comments/1t2tsvi/barber_got_zombies_hairline_right/ojqkfkj/ | t1_ojqkfkj | https://preview.redd.it/p9tktjsy5zyg1.jpeg?width=640&amp;format=pjpg&amp;auto=webp&amp;s=2883dc35737b39e96ea2334f737c40e443fc8981], t1_ojx1cy3=[CommentBody@55b53d44 commentBody | /r/Gameoverse/comments/1t3qs2r/why_is_the_kit_roblox_pack_so_hot/ojx1cy3/ | t1_ojx1cy3 | wow, people are fast. ], t1_ojqu65l=[CommentBody@4da4253 commentBody | /r/Caldruki/comments/1t2n7p1/enriqueeee_adrian/ojqu65l/ | t1_ojqu65l | Although...]}
+========================
