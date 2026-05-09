@@ -13,7 +13,7 @@ class CollectorCommandsTest {
     @BeforeEach
     void setUp() {
         collector = new RedditCollectorVer2("logs.txt", "state.txt", "result.txt", "urls.txt");
-        collectorCore = collector.new Collector();
+        collectorCore = collector.new Collector(10);
         collectorCore.maxIter = 10; // Для быстрых тестов
     }
 

@@ -15,7 +15,7 @@ public class Main {
 		System.out.println("parser start");
 		// Получаем текущую дату и время
 		LocalDateTime now = LocalDateTime.now();
-		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH_mm_ss");
 		String nowstr = now.format(formatter);
 		//файлы
 		String pref="log_files_"+nowstr+"/";
@@ -38,7 +38,7 @@ public class Main {
 		//collector
 		RedditCollectorVer2.Collector collector=RC.new Collector(
 				//Executors.newSingleThreadExecutor(),
-				10 //iter
+				3 //iter
 				);
 		//run
 		collector.run();
