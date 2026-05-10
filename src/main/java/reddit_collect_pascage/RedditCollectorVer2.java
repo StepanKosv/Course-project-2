@@ -1,6 +1,8 @@
 package reddit_collect_pascage;
 import com.fasterxml.jackson.databind.JsonNode;
 
+import db_integration.RedditCollectResultWritingVer1;
+
 import java.io.IOException;
 import java.net.http.HttpClient;
 import java.nio.file.Files;
@@ -33,9 +35,13 @@ public class RedditCollectorVer2 {
     
     public Result result;
     public State state;
+    
+    //write to db
+    public RedditCollectResultWritingVer1 resultWriter;
 
     // ==================== CONSTRUCTOR ====================
-    public RedditCollectorVer2(String logsFile, String stateFile, String resultFile, String urlFile) {
+    public RedditCollectorVer2(String logsFile, String stateFile, String resultFile, String urlFile, 
+    		RedditCollectResultWritingVer1 _resultWriter) {
         this.logsFile = logsFile;
         this.stateFile = stateFile;
         this.resultFile = resultFile;
@@ -44,6 +50,7 @@ public class RedditCollectorVer2 {
         this.state = new State(this.logsFile, this.stateFile);
         this.result = new Result();
         this.state.putMess("Collector initialized");
+        this.resultWriter = _resultWriter;
     }
     
     //инкапсулирую логику редиректов для отладки
@@ -214,8 +221,9 @@ public class RedditCollectorVer2 {
     	            freshSubreddits.add(sub);
     	        }
     	    }
-
+    	    other.readedPosts.forEach(resultWriter::addMessageTransact); //save posts
     	    readedPosts.addAll(other.readedPosts);
+    	    other.readedComments.forEach(resultWriter::addMessageTransact); //save comments
     	    readedComments.addAll(other.readedComments);
     	    readedListings.addAll(other.readedListings);
 

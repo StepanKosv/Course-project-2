@@ -41,7 +41,13 @@ public class LoadPageCmd implements ICollectCommand {
             collector.loadedPages.add(url);
 
             // 2. HTTP запрос
-            HttpRequest request = HttpRequest.newBuilder(URI.create(url)).GET().build();
+            HttpRequest request;
+            try {
+            	request = HttpRequest.newBuilder(URI.create(url)).GET().build();
+            }catch(Exception e){
+            	collector.state.putErr("error parsing url: "+e);
+            	return;
+            }
             HttpResponse<String> response = collector.httpClient.send(request, HttpResponse.BodyHandlers.ofString());
             int status = response.statusCode();
 
@@ -84,10 +90,12 @@ public class LoadPageCmd implements ICollectCommand {
             }
         } catch (Exception e) {
             if (collector.isRelease) {
-                collector.state.putErr("Runtime error on " + url + ": " + e.getMessage());
+                collector.state.putErr("Runtime error on " + url + ": " + e.getMessage()+" "+e);
             } else {
-                collector.state.putCritical("Runtime error on " + url + ": " + e.getMessage());
+                collector.state.putCritical("Runtime error on " + url + ": " + e.getMessage() +
+                		" "+e);
             }
+            e.printStackTrace();
         }
     }
 

@@ -13,6 +13,7 @@ import java.util.concurrent.Executors;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import db_integration.RedditCollectResultWritingVer1;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.Persistence;
@@ -24,7 +25,45 @@ import reddit_collect_pascage.RedditCollectorVer2;
 public class Main {
 
 	public static void main(String[] args) {
-		testGeneratedModels();
+		testParserWithDB();
+	}
+	public static void testParserWithDB() {
+		System.out.println("testParserWithDB");
+		// "reddit-collector" — имя из вашего файла persistence.xml
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("reddit-collector");
+		System.out.println("parser start");
+		// Получаем текущую дату и время
+		LocalDateTime now = LocalDateTime.now();
+		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH_mm_ss");
+		String nowstr = now.format(formatter);
+		//файлы
+		String pref="log_files_"+nowstr+"/";
+		Path p=Path.of(pref);
+		try {
+			Files.createDirectory(p);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		RedditCollectorVer2 RC=new RedditCollectorVer2(
+				pref+"logsFile.log", pref+"stateFile.txt", pref+"resultFile.txt", pref+"urlFile.txt",
+				new RedditCollectResultWritingVer1(emf) //resultWriter db integration
+				);
+		//random
+		int seed=249;
+		RC.random=new Random(seed);
+		RC.state.putMess("random seed: "+seed);
+		//cmd
+		RC.addCmd(new LoadPageCmd(RC,"https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json"));
+		//collector
+		RedditCollectorVer2.Collector collector=RC.new Collector(
+				//Executors.newSingleThreadExecutor(),
+				500 //iter
+				);
+		//run
+		collector.run();
+
+		System.out.println("parser stop");
 	}
 	public static void testGeneratedModels() {
 		System.out.println("testGeneratedModels");
@@ -51,6 +90,7 @@ public class Main {
     		System.out.println("end");
         }
 	}
+	/*
 	public static void testParser() {
 		System.out.println("parser start");
 		// Получаем текущую дату и время
@@ -108,4 +148,5 @@ public class Main {
 //				);
 //		collector.run();
 	}
+	*/
 }
