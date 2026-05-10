@@ -6,12 +6,52 @@ import java.nio.file.Path;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Random;
 import java.util.concurrent.Executors;
+
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.Persistence;
+import jakarta.persistence.TypedQuery;
+import model.User;
+import reddit_collect_pascage.LoadPageCmd;
+import reddit_collect_pascage.RedditCollectorVer2;
 
 public class Main {
 
 	public static void main(String[] args) {
+		testGeneratedModels();
+	}
+	public static void testGeneratedModels() {
+		System.out.println("testGeneratedModels");
+		// "reddit-collector" — имя из вашего файла persistence.xml
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("reddit-collector");
+        
+        // Создаем сам менеджер
+        EntityManager em = emf.createEntityManager();
+
+        try {
+        	TypedQuery<User> query = em.createNamedQuery("User.findAll", User.class);
+            List<User> users = query.getResultList();
+            //вывод
+            ObjectMapper mapper = new ObjectMapper();
+            String json = mapper.writeValueAsString(users);
+            System.out.println("json: "+json);
+        } catch (JsonProcessingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} finally {
+            // Всегда закрывайте менеджер и фабрику
+            em.close();
+            emf.close();
+    		System.out.println("end");
+        }
+	}
+	public static void testParser() {
 		System.out.println("parser start");
 		// Получаем текущую дату и время
 		LocalDateTime now = LocalDateTime.now();
@@ -68,5 +108,4 @@ public class Main {
 //				);
 //		collector.run();
 	}
-
 }

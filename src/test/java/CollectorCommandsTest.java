@@ -2,6 +2,10 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
 
+import reddit_collect_pascage.ICollectState;
+import reddit_collect_pascage.LoadCommentCmd;
+import reddit_collect_pascage.LoadPageCmd;
+import reddit_collect_pascage.RedditCollectorVer2;
 
 import java.nio.file.Path;
 import static org.junit.jupiter.api.Assertions.*;

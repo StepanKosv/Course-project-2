@@ -1,5 +1,11 @@
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
+
+import reddit_collect_pascage.CommentBody;
+import reddit_collect_pascage.JsonBody;
+import reddit_collect_pascage.ListingBody;
+import reddit_collect_pascage.PostBody;
+
 import org.junit.jupiter.api.Test;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
