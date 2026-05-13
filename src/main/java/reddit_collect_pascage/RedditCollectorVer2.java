@@ -38,6 +38,10 @@ public class RedditCollectorVer2 {
     
     //write to db
     public RedditCollectResultWritingVer1 resultWriter;
+    
+    //check 403
+    public int limit403=6;
+    public int limit403timer=limit403;
 
     // ==================== CONSTRUCTOR ====================
     public RedditCollectorVer2(String logsFile, String stateFile, String resultFile, String urlFile, 

@@ -24,9 +24,9 @@ import reddit_collect_pascage.RedditCollectorVer2;
 
 public class Main {
 
-	public static void main(String[] args) {
-		testParserWithDB();
-	}
+//	public static void main(String[] args) {
+//		testParserWithDB();
+//	}
 	public static void testParserWithDB() {
 		System.out.println("testParserWithDB");
 		// "reddit-collector" — имя из вашего файла persistence.xml
@@ -50,16 +50,19 @@ public class Main {
 				new RedditCollectResultWritingVer1(emf) //resultWriter db integration
 				);
 		//random
-		int seed=249;
+		int seed=553;
 		RC.random=new Random(seed);
 		RC.state.putMess("random seed: "+seed);
 		//cmd
 		RC.addCmd(new LoadPageCmd(RC,"https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json"));
+		RC.addCmd(new LoadPageCmd(RC,"https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/"));
 		//collector
 		RedditCollectorVer2.Collector collector=RC.new Collector(
 				//Executors.newSingleThreadExecutor(),
 				500 //iter
 				);
+		//смертельный номер выключаю debug
+		RC.isRelease=true;
 		//run
 		collector.run();
 

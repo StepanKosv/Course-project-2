@@ -43,7 +43,8 @@ public class LoadPageCmd implements ICollectCommand {
             // 2. HTTP запрос
             HttpRequest request;
             try {
-            	request = HttpRequest.newBuilder(URI.create(url)).GET().build();
+            	request = HttpRequest.newBuilder(URI.create(url)).GET()
+            			.header("User-Agent", "Oh my god agent").build();
             }catch(Exception e){
             	collector.state.putErr("error parsing url: "+e);
             	return;
@@ -52,6 +53,7 @@ public class LoadPageCmd implements ICollectCommand {
             int status = response.statusCode();
 
             if (status == 200) {
+            	collector.limit403timer=collector.limit403;//restore limit 403
             	collector.state.putMess("LoadPageCmd.run succesfull loaded (200) "+url);
                 // 3. Парсинг JSON
                 JsonNode json = new ObjectMapper().readTree(response.body());
@@ -73,6 +75,7 @@ public class LoadPageCmd implements ICollectCommand {
                 // 5. Генерация новых команд
                 enqueueFromResult(localResult);
             } else if (status >= 300 && status < 400) {
+            	collector.limit403timer=collector.limit403;//restore limit 403
             	collector.state.putWarn("LoadPageCmd.run redirect status "+status);
                 // Редирект
                 response.headers().firstValue("Location").ifPresent(loc -> {
@@ -85,6 +88,12 @@ public class LoadPageCmd implements ICollectCommand {
                 });
             } else if (status == 404) {
                 collector.state.putWarn("404 Not Found: " + url);
+            } else if (status == 403) {
+            	collector.limit403timer--;
+            	collector.state.putErr("403: Forbidden"+url);
+            	if(collector.limit403timer<0) {
+            		collector.state.putCritical("403 limit exeed");
+            	}
             } else {
                 collector.state.putCritical("HTTP " + status + " for " + url);
             }

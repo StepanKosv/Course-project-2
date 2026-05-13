@@ -1,0 +1,12 @@
+[INFO] Collector initialized
+[INFO] random seed: 553
+[INFO] add cmd: [reddit_collect_pascage.LoadPageCmd@69a76b74, url:https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json]
+[INFO] add cmd: [reddit_collect_pascage.LoadPageCmd@1dd443c1, url:https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]
+[INFO] get cmd: [reddit_collect_pascage.LoadPageCmd@1dd443c1, url:https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]
+[INFO] run cmd: [reddit_collect_pascage.LoadPageCmd@1dd443c1, url:https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]
+[INFO] LoadPageCmd.run on https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/
+[INFO] LoadPageCmd.run succesfull loaded (200) https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/
+[ERR] Runtime error on https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/: Unexpected character ('<' (code 60)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 2, column: 3] com.fasterxml.jackson.core.JsonParseException: Unexpected character ('<' (code 60)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')
+ at [Source: REDACTED (`StreamReadFeature.INCLUDE_SOURCE_IN_LOCATION` disabled); line: 2, column: 3]
+[INFO] remove cmd: [reddit_collect_pascage.LoadPageCmd@1dd443c1, url:https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]

@@ -1,0 +1,12 @@
+=== COLLECTOR RESULT ===
+Reddit URLs: 0 []
+Posts: 0 []
+Comments: 0 []
+Listings: 0 []
+Usernames: 0 []
+Subreddits: 0 []
+Loaded Pages: 1 [https://www.reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]
+Pending (finded): 0 reddit_collect_pascage.ArraySet@1a02ebe0
+Mapped Posts (ID): 0 {}
+Mapped Comments (ID): 0 {}
+========================
