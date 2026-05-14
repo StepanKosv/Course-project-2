@@ -1,7 +1,6 @@
 package db_integration;
 
 import java.time.LocalDateTime;
-import java.util.concurrent.ThreadLocalRandom;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
@@ -9,31 +8,13 @@ import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
 import jakarta.persistence.EntityTransaction;
 import jakarta.persistence.TypedQuery;
-import model.*;
-import reddit_collect_pascage.CommentBody;
-import reddit_collect_pascage.DiscussionTextElement;
+import model.HashToNodePK;
 
-public class RedditCollectResultWritingVer1 {
-	//public static final String DEFAULT_USER_NAME="test user";
-	//public static final String DEFAULT_USER_PAROL="test parol";
-	public static final String HASH_METHOD="RedditCollectResultWritingVer1/hash method";
-	public static final String DEFAULT_SCOPE_NAME="test scope";
-	public static final String create_or_change_node="create_or_change_node";
-	public static final String create_or_change_rel="create_or_change_rel";
-	public static final String create_or_find_node="create_or_find_node";
-	public static final String create_or_find_rel="create_or_find_rel";
-	
-	private String scopeName;
-	private EntityManagerFactory emf;
-	
-	public RedditCollectResultWritingVer1(EntityManagerFactory emf, String scopeName) {
-		this.emf=emf;
-		this.scopeName=scopeName;
+public class DBFasade {
+	public final EntityManagerFactory emf;
+	public DBFasade(EntityManagerFactory _emf) {
+		this.emf=_emf;
 	}
-	public RedditCollectResultWritingVer1(EntityManagerFactory emf) {
-		this(emf,DEFAULT_SCOPE_NAME);
-	}
-	
 	// Обертка для void методов (Runnable)
     public <T> T transact(Function<EntityManager,T> action) {
         EntityManager em = emf.createEntityManager();
@@ -43,21 +24,19 @@ public class RedditCollectResultWritingVer1 {
             var res = action.apply(em);
             tx.commit();
             return res;
-        } catch (RuntimeException e) {
+        } catch (Exception e) {
             if (tx.isActive()) tx.rollback();
             throw e;
         } finally {
             em.close();
         }
     }
-	
-//	public HashToNodePK hashMessagePK(DiscussionTextElement body) {
-//		HashToNodePK pk = new HashToNodePK();
-//		pk.setHash(body.stringId());
-//		pk.setHashType(HASH_METHOD);
-//		pk.setScopeFk(scope.getScopeName());
-//		return pk;
-//	}
+    public void transact(Consumer<EntityManager> action) {
+    	transact(em->{
+    		action.accept(em);
+    		return 1;
+    	});
+    }
 	public boolean exists(HashToNodePK id, EntityManager em) {
 		TypedQuery<Long> query = em.createQuery(
 	        "SELECT COUNT(h) FROM HashToNode h WHERE h.id = :id", Long.class);
@@ -119,52 +98,6 @@ public class RedditCollectResultWritingVer1 {
 			.setParameter("eTime", endTime)
 			.setParameter("commit", lastCommitFk)
 			.getSingleResult();
-	}
-	public void addMessage(DiscussionTextElement mess, EntityManager em) {
-		//1 message node
-		assert(mess.stringId()!=null);
-		long messId=this.createOrFindNode(em, mess.stringId(), HASH_METHOD, scopeName);
-		createOrChangeNode(em, mess.stringId(), HASH_METHOD, scopeName, 
-	            "reddit/mess", mess.infoString(), mess.getBody().toString(), 
-	            null, null, 
-	            scopeName, null);
-		//2 user
-		if(mess.getUsername()!=null){
-			long userId=this.createOrFindNode(em, mess.getUsername(), HASH_METHOD, scopeName);
-			createOrChangeNode(em, mess.getUsername(), HASH_METHOD, scopeName, 
-		            "reddit/user", mess.getUsername(), null, 
-		            null, null, 
-		            scopeName, null);
-			//user create mess
-			createOrChangeRel(em, "create", HASH_METHOD, scopeName,
-		            userId, messId, null, "reddit/post message", 
-		            null, "create", 
-		            null, null, null);
-		}
-		//3 parent
-		if(mess.parentId()!=null) {
-			long parentId=this.createOrFindNode(em, mess.parentId(), HASH_METHOD, scopeName);
-			//mess answer mess
-			createOrChangeRel(em, "answer", HASH_METHOD, scopeName,
-		            messId, parentId, null, "reddit/answer message", 
-		            null, "answer", 
-		            null, null, null);
-		}
-		//4 subreddit
-		if(mess.subredditName()!=null) {
-			long subredditId=this.createOrFindNode(em, mess.subredditName(), HASH_METHOD, scopeName);
-			//subreddit contain mess
-			createOrChangeRel(em, "contain", HASH_METHOD, scopeName,
-		            subredditId, messId, null, "reddit/subreddit contain message", 
-		            null, "contain", 
-		            null, null, null);
-		}
-	}
-	public void addMessageTransact(DiscussionTextElement mess) {
-		this.transact(em->{
-			addMessage(mess,em);
-			return 1;
-		});
 	}
 	
 }

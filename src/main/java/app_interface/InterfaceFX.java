@@ -1,5 +1,14 @@
 package app_interface;
 
+import edu.uci.ics.jung.algorithms.layout.CircleLayout;
+import edu.uci.ics.jung.algorithms.layout.Layout;
+import edu.uci.ics.jung.graph.SparseMultigraph;
+import edu.uci.ics.jung.graph.Graph;
+import edu.uci.ics.jung.visualization.VisualizationViewer;
+import edu.uci.ics.jung.visualization.control.DefaultModalGraphMouse;
+import edu.uci.ics.jung.visualization.control.ModalGraphMouse;
+import jakarta.persistence.EntityManagerFactory;
+import jakarta.persistence.Persistence;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Group;
@@ -11,6 +20,9 @@ import com.mxgraph.swing.mxGraphComponent;
 import com.mxgraph.view.mxGraph;
 import javafx.embed.swing.SwingNode;
 import javafx.scene.layout.StackPane;
+
+import java.awt.Dimension;
+
 import javax.swing.SwingUtilities;
 
 public class InterfaceFX extends Application {
@@ -19,23 +31,78 @@ public class InterfaceFX extends Application {
     }
 	@Override
 	public void start(Stage stage) throws Exception {
-//		Parent root = FXMLLoader.load(getClass().getResource("InterfaceFX.fxml")); 
-//        Scene scene = new Scene(root);
-//         
-//        stage.setScene(scene);
-         
-//        stage.show();
-		// 1. Создаем SwingNode для встраивания Swing-контента
-        final SwingNode swingNode = new SwingNode();
-
-        // 2. Создаем контент JGraphX в потоке Swing (EDT)
-        createSwingContent(swingNode);
-
-        StackPane pane = new StackPane();
-        pane.getChildren().add(swingNode);
-
-        stage.setScene(new Scene(pane, 800, 600));
-        stage.setTitle("JGraphX inside JavaFX");
+//		// 1. Создаем граф JUNG
+//        Graph<String, Integer> graph = new SparseMultigraph<>();
+//        graph.addVertex("A");
+//        graph.addVertex("B");
+//        graph.addVertex("C");
+//        graph.addEdge(1, "A", "B");
+//        graph.addEdge(2, "B", "C");
+//        graph.addEdge(3, "C", "A");
+//
+//        // 2. Настраиваем layout и визуализацию JUNG
+//        Layout<String, Integer> layout = new CircleLayout<>(graph);
+//        layout.setSize(new Dimension(400, 400));
+//        VisualizationViewer<String, Integer> vv = new VisualizationViewer<>(layout);
+//        vv.setPreferredSize(new Dimension(400, 400));
+//
+//        // Добавляем интерактивность (мышь)
+//        DefaultModalGraphMouse<String, Integer> graphMouse = new DefaultModalGraphMouse<>();
+//        graphMouse.setMode(ModalGraphMouse.Mode.PICKING);
+//        vv.setGraphMouse(graphMouse);
+//
+//        // 3. Интеграция в JavaFX через SwingNode
+//        SwingNode swingNode = new SwingNode();
+//        SwingUtilities.invokeLater(() -> swingNode.setContent(vv));
+//
+//        StackPane pane = new StackPane();
+//        pane.getChildren().add(swingNode);
+		
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("reddit-collector");
+		ScopeHolder holder = new ScopeHolder("test display scope", -1L, emf);
+		var db=holder.dbFasade;
+		holder.getGraph().addVertex(1l);
+		holder.getGraph().addVertex(2l);
+		holder.getGraph().addVertex(3l);
+		model.RelPK e12=new model.RelPK();
+		e12.setLeftNodeFk(1l);
+		e12.setRightNodeFk(2l);
+		e12.setRelId(-1l);
+		holder.getGraph().addEdge(e12, 1l, 2l);
+		int n=15;
+		for(int i=0; i<n; i++) {
+			holder.getGraph().addVertex((long)i);
+		}
+		for(int i=0; i<n; i++) {
+			for(int j=i; j<n; j++) {
+				model.RelPK e=new model.RelPK();
+				e.setLeftNodeFk((long)i);
+				e.setRightNodeFk((long)j);
+				e.setRelId((long)i+j);
+				holder.getGraph().addEdge(e,(long)i, (long)j);
+			}
+		}
+//		Long node=db.transact(em->
+//		{return db.createOrFindNode(em, "1", "asdf", holder.getScopeName());});
+//		holder.newNode(node, new model.Node());
+		
+		
+		// 1. Создаем объект загрузчика
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("GraphView.fxml"));
+        
+        // 2. Загружаем иерархию компонентов
+        Parent root = loader.load();
+        
+        // 3. Получаем ссылку на контроллер
+        GraphViewController controller = loader.getController();
+        javafx.application.Platform.runLater(()->{
+        	controller.setHolder(holder);
+        	controller.refresh();
+        });
+        
+        Scene scene = new Scene(root, 400, 400);
+        stage.setTitle("JUNG в JavaFX");
+        stage.setScene(scene);
         stage.show();
 	}
 	

@@ -5,6 +5,11 @@ import jakarta.persistence.*;
 import java.sql.Timestamp;
 import java.util.List;
 
+import org.hibernate.annotations.JdbcTypeCode;
+import org.hibernate.type.SqlTypes;
+
+import com.fasterxml.jackson.annotation.JsonSubTypes.Type;
+
 
 /**
  * The persistent class for the nodes database table.
@@ -30,7 +35,8 @@ public class Node implements Serializable {
 	private String displayText;
 
 	@Column(name="json_meta")
-	private Object jsonMeta;
+	@JdbcTypeCode(SqlTypes.JSON)
+	private String jsonMeta;
 
 	private String type;
 
@@ -99,11 +105,11 @@ public class Node implements Serializable {
 		this.displayText = displayText;
 	}
 
-	public Object getJsonMeta() {
+	public String getJsonMeta() {
 		return this.jsonMeta;
 	}
 
-	public void setJsonMeta(Object jsonMeta) {
+	public void setJsonMeta(String jsonMeta) {
 		this.jsonMeta = jsonMeta;
 	}
 
