@@ -26,7 +26,7 @@ import java.util.function.Function;
 import db_integration.DBFasade;
 
 public class ScopeHolder implements IDataHolder<Long, model.RelPK, model.Node, model.Rel, model.HashToNodePK, model.HashToRelPK> {
-	DBFasade dbFasade;
+	public DBFasade dbFasade;
     // Поля из технического задания
     private final String scopeName;
     private Long commitId;

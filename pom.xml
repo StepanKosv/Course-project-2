@@ -29,18 +29,18 @@
 		<dependency>
 			<groupId>org.openjfx</groupId>
 			<artifactId>javafx-controls</artifactId>
-			<version>26.0.1</version>
+			<version>21.0.5</version>
 		</dependency>
 		<dependency>
 			<groupId>org.openjfx</groupId>
 			<artifactId>javafx-fxml</artifactId>
-			<version>26.0.1</version>
+			<version>21.0.5</version>
 		</dependency>
 		<!-- Поддержка Swing в JavaFX (для SwingNode) -->
 		<dependency>
 			<groupId>org.openjfx</groupId>
 			<artifactId>javafx-swing</artifactId>
-			<version>26.0.1</version> <!-- Используйте актуальную версию -->
+			<version>21.0.5</version> <!-- Используйте актуальную версию -->
 		</dependency>
 
 		<!-- Сама библиотека JGraphX -->
