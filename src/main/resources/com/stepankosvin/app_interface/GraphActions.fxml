@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ScrollPane?>
+
+
+<VBox spacing="10.0" xmlns="http://javafx.com" xmlns:fx="http://javafx.com" fx:controller="com.stepankosvin.app_interface.GraphActionsController">
+	<Button fx:id="refreshButton" onAction="#handleRefresh" text="Refresh" />
+	<TitledPane fx:id="actionsPane" animated="true" text="Доступные действия" expanded="true" xmlns:fx="http://javafx.com">
+    	<content>
+        	<VBox spacing="8.0">
+            <children>
+                <TextField fx:id="searchField" promptText="Поиск действия..." />
+                <ScrollPane fitToWidth="true" hbarPolicy="NEVER" vbarPolicy="AS_NEEDED" minHeight="150.0" maxHeight="300.0">
+                    <content>
+                        <VBox fx:id="buttonsContainer" spacing="5.0" />
+                    </content>
+                </ScrollPane>
+            </children>
+        	</VBox>
+    	</content>
+	</TitledPane>
+</VBox>

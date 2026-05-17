@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox spacing="15.0" xmlns="http://javafx.com" xmlns:fx="http://javafx.com" fx:controller="com.stepankosvin.app_interface.ScopeSelectController">
+    <padding>
+        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+    </padding>
+    <children>
+        <HBox alignment="CENTER_LEFT" spacing="10.0">
+            <children>
+                <ComboBox fx:id="scopeNameComboBox" onAction="#handleScopeSelectionChanged" promptText="Select Scope..." prefWidth="200.0" />
+                <Button fx:id="loadButton" onAction="#handleLoadScope" text="Load" />
+                <Button fx:id="loadOptionsButton" onAction="#handleLoadOptions" text="Load scope options from db" />
+                <Button fx:id="loadPluginsButton" onAction="#handleLoadPlugins" text="Load plugins from app folder" />
+            </children>
+        </HBox>
+        <VBox VBox.vgrow="ALWAYS" style="-fx-border-color: #cccccc; -fx-border-width: 1px; -fx-padding: 5px;">
+            <fx:include fx:id="scopeView" source="ScopeView.fxml" />
+        </VBox>
+    </children>
+</VBox>

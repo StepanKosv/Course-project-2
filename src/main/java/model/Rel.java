@@ -5,6 +5,9 @@ import jakarta.persistence.*;
 import java.sql.Timestamp;
 import java.util.List;
 
+import org.hibernate.annotations.JdbcTypeCode;
+import org.hibernate.type.SqlTypes;
+
 
 /**
  * The persistent class for the rels database table.
@@ -29,7 +32,8 @@ public class Rel implements Serializable {
 	private String hash;
 
 	@Column(name="json_meta")
-	private Object jsonMeta;
+	@JdbcTypeCode(SqlTypes.JSON)
+	private String jsonMeta;
 
 	@Column(name="start_time")
 	private Timestamp startTime;
@@ -90,11 +94,11 @@ public class Rel implements Serializable {
 		this.hash = hash;
 	}
 
-	public Object getJsonMeta() {
+	public String getJsonMeta() {
 		return this.jsonMeta;
 	}
 
-	public void setJsonMeta(Object jsonMeta) {
+	public void setJsonMeta(String jsonMeta) {
 		this.jsonMeta = jsonMeta;
 	}
 

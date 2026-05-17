@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+
+<VBox spacing="10.0" xmlns="http://javafx.com" xmlns:fx="http://javafx.com" fx:controller="com.stepankosvin.list_view_and_filters_plugin.FilterSettingsController">
+    <padding>
+        <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+    </padding>
+    <children>
+        <Button fx:id="refreshButton" mnemonicParsing="false" onAction="#handleRefresh" text="Refresh" />
+        
+        <VBox spacing="5.0">
+            <children>
+                <CheckBox fx:id="degreeCentralityCheckBox" mnemonicParsing="false" text="Degree Centrality" />
+                <CheckBox fx:id="betweennessCentralityCheckBox" mnemonicParsing="false" text="Betweenness Centrality" />
+                <CheckBox fx:id="closenessCentralityCheckBox" mnemonicParsing="false" text="Closeness Centrality" />
+            </children>
+        </VBox>
+        
+        <VBox spacing="5.0">
+            <children>
+                <Label text="min betweenness Centrality:" />
+                <TextField fx:id="minBetw" promptText="" />
+                <Label text="min closeness Centrality" />
+                <TextField fx:id="minClos" promptText="" />
+                <Label text="min degree" />
+                <TextField fx:id="minDeg" promptText="" />
+                <Label text="min left betweenness:" />
+                <TextField fx:id="minBetwL" promptText="" />
+                <Label text="min left closeness" />
+                <TextField fx:id="minClosL" promptText="" />
+                <Label text="min left degree" />
+                <TextField fx:id="minDegL" promptText="" />
+                <Label text="min right betweenness:" />
+                <TextField fx:id="minBetwR" promptText="" />
+                <Label text="min right closeness" />
+                <TextField fx:id="minClosR" promptText="" />
+                <Label text="min right degree" />
+                <TextField fx:id="minDegR" promptText="" />
+                <Label text="min egde betweenness:" />
+                <TextField fx:id="minBetwE" promptText="" />
+            </children>
+        </VBox>
+        
+        <HBox spacing="10.0">
+            <children>
+                <Button fx:id="openVertexListButton" mnemonicParsing="false" onAction="#handleOpenVertexList" text="Open Vertex List" />
+                <Button fx:id="openEdgeListButton" mnemonicParsing="false" onAction="#handleOpenEdgeList" text="Open Edge List" />
+                <Button fx:id="openGraphViewButton" mnemonicParsing="false" onAction="#handleOpenGraphView" text="Open Graph View" />
+            </children>
+        </HBox>
+    </children>
+</VBox>

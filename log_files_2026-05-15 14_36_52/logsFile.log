@@ -1,0 +1,21 @@
+[INFO] Collector initialized
+[INFO] random seed: 553
+[INFO] add cmd: [reddit_collect_pascage.LoadPageCmd@3fc3cdbb, url:https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json]
+[INFO] add cmd: [reddit_collect_pascage.LoadPageCmd@15c629fa, url:reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]
+[INFO] get cmd: [reddit_collect_pascage.LoadPageCmd@15c629fa, url:reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]
+[INFO] run cmd: [reddit_collect_pascage.LoadPageCmd@15c629fa, url:reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]
+[INFO] LoadPageCmd.run on reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/
+[ERR] error parsing url: java.lang.IllegalArgumentException: URI with undefined scheme
+[INFO] remove cmd: [reddit_collect_pascage.LoadPageCmd@15c629fa, url:reddit.com/r/DnD/comments/1ntqz44/one_shots_for_beginners/]
+[INFO] get cmd: [reddit_collect_pascage.LoadPageCmd@3fc3cdbb, url:https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json]
+[INFO] run cmd: [reddit_collect_pascage.LoadPageCmd@3fc3cdbb, url:https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json]
+[INFO] LoadPageCmd.run on https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json
+[INFO] LoadPageCmd.run succesfull loaded (200) https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json
+[ERR] Runtime error on https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json: Error while committing the transaction [could not execute statement [ERROR: column "json_meta" is of type jsonb but expression is of type bytea
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 81] [update rels set last_commit_fk=?,display_text=?,end_time=?,hash=?,json_meta=?,left_node_fk=?,right_node_fk=?,start_time=?,type=? where left_node_fk=? and rel_id=? and right_node_fk=?]] jakarta.persistence.RollbackException: Error while committing the transaction [could not execute statement [ERROR: column "json_meta" is of type jsonb but expression is of type bytea
+  Подсказка: You will need to rewrite or cast the expression.
+  Позиция: 81] [update rels set last_commit_fk=?,display_text=?,end_time=?,hash=?,json_meta=?,left_node_fk=?,right_node_fk=?,start_time=?,type=? where left_node_fk=? and rel_id=? and right_node_fk=?]]
+[INFO] remove cmd: [reddit_collect_pascage.LoadPageCmd@3fc3cdbb, url:https://www.reddit.com/r/mathmemes/comments/1sgzvxx/the_1phone/.json]
+[INFO] Collector stopped manually
+[INFO] Collector stopped manually

@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
 
-import reddit_collect_pascage.ArraySet;
+import com.stepankosvin.reddit_collect_pascage.ArraySet;
 
 import java.util.Random;
 import static org.junit.jupiter.api.Assertions.*;
